@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Publications"
+title: "publications"
 subtitle: ""
-metatitle: "Publications"
+metatitle: "publications"
 css: "/css/index.css"
 ---
 
