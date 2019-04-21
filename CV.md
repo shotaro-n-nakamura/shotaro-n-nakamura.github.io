@@ -5,4 +5,4 @@ bigimg:
   - "/img/Sikkim.png" : "Sikkim, India"
 
 ---
-Lauren Hennelly
+Lauren Hennelly.
