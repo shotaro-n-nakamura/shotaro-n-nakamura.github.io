@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-### Here are some recent scientific publications
+### Scientific publications
 
 **5.)** Hamid A, T Mahmood, H Fatima, **LM Hennelly**, R Akrim, A Hussain, M
 Waseem. 2019. Origin, ecology, and human conflict of grey wolf (Canis lupus) in
@@ -28,7 +28,7 @@ clades: tracing divergence in the world’s oldest wolf lineages using acoustics
 displaying mating behavior from Spiti Valley, India and potential conservation
 threats from sympatric feral dogs. *Canid Biology & Conservation* 18(9): 33-36. [Link](https://www.canids.org/CBC/18/Mating_of_Himalayan_wolf_and_feral_dog.pdf)
 
-### Here are some popular science publications
+### Popular science publications
 
 **Hennelly LM**. 2018. The little-known wolves of South Asia. UK Wolf
 Conservation Trust’s *Wolf Print Magazine*. March 2018 Issue, pages 26-28 [Link](https://ukwct.org.uk/wp/issue63.pdf)
