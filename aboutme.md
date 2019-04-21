@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-subtitle: Lauren Hennelly
 bigimg:
   - "/img/Maharahstra.png" : "Maharahstra, India"
 ---
