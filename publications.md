@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-subtitle: Publications
+title: publications
+subtitle: publications
 ---
 
 Here are some recent scientific publications:
