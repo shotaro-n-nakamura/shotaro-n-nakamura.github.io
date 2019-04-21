@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 bigimg:
-  - "/img/Spiti.png" : "Spiti, India"
+  - "/img/Gangtok.png" : "Sikkim, India"
 ---
 
 Hello!! 
