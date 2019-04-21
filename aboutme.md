@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 bigimg:
-  - "/img/mountains.png" : "USA"
+  - "/img/idaho.png" : "USA"
 ---
 
 Hello!
