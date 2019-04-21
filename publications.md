@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 bigimg:
-  - "/img/Karakoram.png" : "Karakoram range, Gilgit-Baltistan, Pakistan"
+  - "/img/Ladakh.png" : "Ladakh, Jammu-Kashmir, India"
 ---
 
 ### Scientific publications
