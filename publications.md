@@ -22,6 +22,8 @@ Howl variation across Himalayan, North African, Indian and Holarctic wolf
 clades: tracing divergence in the world’s oldest wolf lineages using acoustics.
 *Current Zoology* 63(3): 341-348. [Link](https://academic.oup.com/cz/article/63/3/341/3002317)
 
+  *Covered in LiveMint magazine* [Link](https://www.livemint.com/Leisure/PMYYorrIf6kFNmuHDQwGMO/Calling-on-the-wolf.html) 
+
 **1.)** **Hennelly LM**, B Habib, and S Lyngdoh. 2015. Himalayan wolf and feral dog
 displaying mating behavior from Spiti Valley, India and potential conservation
 threats from sympatric feral dogs. *Canid Biology & Conservation* 18(9): 33-36. [Link](https://www.canids.org/CBC/18/Mating_of_Himalayan_wolf_and_feral_dog.pdf)
@@ -37,6 +39,11 @@ Conservation Trust’s *Wolf Print Magazine*. March 2018 Issue, pages 26-28 [Lin
 **Hennelly LM**. Chasing Shanku: wolf research in the High Himalaya. UK Wolf
 Conservation Trust’s *Wolf Print Magazine* (reprint from International Wolf
 Magazine). Summer 2017 issue.
+
+**Hennelly LM**. 2015. Hybridisation threat in the Himalaya.
+Conservationindia.org. [Link](http://www.conservationindia.org/gallery/wolf-dog-hybridisation-threat-in-the-himalaya)
+
+
 
 
 
