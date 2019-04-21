@@ -2,6 +2,6 @@
 layout: page
 title: CV
 bigimg:
-  - "/img/Changthang, Ladakh.png" : "Ladakh3, Jammu & Kashmir, India"
+  - "/img/Changthang, Ladakh.png" : "Changthang, Jammu & Kashmir, India"
 
 ---
