@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 bigimg:
-  - "/img/Maharahstra.png" : "Maharahstra, India"
+  - "/img/Shepards.png" : "Maharahstra, India"
 ---
 
 Hello!! 
