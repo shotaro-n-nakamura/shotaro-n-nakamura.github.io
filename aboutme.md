@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/lake villa2.png" : "lake villa2"
+  - "/img/cali2.png" : "cali2"
 ---
 # About me
 
