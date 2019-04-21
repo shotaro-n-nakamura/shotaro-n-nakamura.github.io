@@ -22,7 +22,7 @@ Howl variation across Himalayan, North African, Indian and Holarctic wolf
 clades: tracing divergence in the world’s oldest wolf lineages using acoustics.
 *Current Zoology* 63(3): 341-348. [Link](https://academic.oup.com/cz/article/63/3/341/3002317)
 
-  *Covered in LiveMint magazine* [Link](https://www.livemint.com/Leisure/PMYYorrIf6kFNmuHDQwGMO/Calling-on-the-wolf.html) 
+  - *Covered in LiveMint magazine* [Link](https://www.livemint.com/Leisure/PMYYorrIf6kFNmuHDQwGMO/Calling-on-the-wolf.html) 
 
 **1.)** **Hennelly LM**, B Habib, and S Lyngdoh. 2015. Himalayan wolf and feral dog
 displaying mating behavior from Spiti Valley, India and potential conservation
