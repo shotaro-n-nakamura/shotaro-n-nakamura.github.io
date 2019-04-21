@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publications
-subtitle: 
+bigimg:
+  - "/img/Karakoram.png" : "Karakoram range, Gilgit-Baltistan, Pakistan"
 ---
 
 ### Scientific publications
