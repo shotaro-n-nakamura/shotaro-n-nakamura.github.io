@@ -29,12 +29,14 @@ threats from sympatric feral dogs. *Canid Biology & Conservation* 18(9): 33-36. 
 ### Here are some popular science publications: 
 
 **Hennelly LM**. 2018. The little-known wolves of South Asia. UK Wolf
-Conservation Trust’s *Wolf Print Magazine*. March 2018 Issue; page 26-28 [Link](https://ukwct.org.uk/wp/issue63.pdf)
+Conservation Trust’s *Wolf Print Magazine*. March 2018 Issue, pages 26-28 [Link](https://ukwct.org.uk/wp/issue63.pdf)
 
 **Hennelly LM**. 2015. Chasing Shanku: wolf research in the High Himalaya.
-*International Wolf Magazine* 16(4): 12-13.[Link](https://www.wolf.org/wp-content/uploads/2013/12/IW_winter2015final.pdf)
+*International Wolf Magazine*. Summer 2015 issue, pages 12-13.[Link](https://www.wolf.org/wp-content/uploads/2013/12/IW_winter2015final.pdf)
 
-
+**Hennelly LM**. Chasing Shanku: wolf research in the High Himalaya. UK Wolf
+Conservation Trust’s *Wolf Print Magazine* (reprint from International Wolf
+Magazine). Summer 2017 issue.
 
 
 
