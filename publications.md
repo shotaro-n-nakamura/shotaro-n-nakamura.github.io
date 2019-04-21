@@ -24,9 +24,10 @@ Current Zoology 63(3): 341-348. [Link](https://academic.oup.com/cz/article/63/3/
 
 1.) **Hennelly LM**, B Habib, and S Lyngdoh. 2015. Himalayan wolf and feral dog
 displaying mating behavior from Spiti Valley, India and potential conservation
-threats from sympatric feral dogs. Canid Biology & Conservation 18(9): 33-36.
+threats from sympatric feral dogs. Canid Biology & Conservation 18(9): 33-36. [Link](https://www.canids.org/CBC/18/Mating_of_Himalayan_wolf_and_feral_dog.pdf)
 
 ## Here are some popular science publications: 
+
 
 
 
