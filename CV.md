@@ -2,7 +2,7 @@
 layout: page
 title: CV
 bigimg:
-  - "/img/Sikkim.png" : "Sikkim, India"
+  - "/img/idaho.png" : "Blaine County, Idaho, USA"
 
 ---
 Lauren Hennelly.
