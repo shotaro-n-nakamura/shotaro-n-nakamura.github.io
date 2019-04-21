@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 bigimg:
-  - "/img/Gangtok.png" : "Sikkim, India"
+  - "/img/lake villa.png" : "My hometown, Lake Villa, Illinois, USA"
 ---
 
 Hello!! 
