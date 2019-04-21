@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 bigimg:
-  - "/img/cali.png" : "USA"
+  - "/img/cali.png" : "cali"
 ---
 
 Hello!
