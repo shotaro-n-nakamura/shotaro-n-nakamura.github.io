@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 bigimg:
-  - "/img/lake villa.png" : "My hometown, Lake Villa, Illinois, USA"
+  - "/img/mountains.png" : "My hometown, Lake Villa, Illinois, USA"
 ---
 
 Hello!
