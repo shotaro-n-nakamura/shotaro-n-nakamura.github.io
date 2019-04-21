@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: Lauren Hennelly
+  - "/img/Shepards.png" : "Maharahshtra, India"
 ---
 
 Hello!! 
