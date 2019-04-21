@@ -15,7 +15,7 @@ repertoire of the Indian wolf (Canis lupus pallipes). <Plos One>. [Link](https:/
 
 **3.)** Weyna A, RR Dubielzig, **LM Hennelly**. Accepted. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
-iridica in hooved mammals. Veterinary Ophthalmology
+iridica in hooved mammals. <Veterinary Ophthalmology>
 
 **2.)** **Hennelly LM**, B Habib, H Root-Gutteridge, V Palacios, D Passilongo. 2017.
 Howl variation across Himalayan, North African, Indian and Holarctic wolf
