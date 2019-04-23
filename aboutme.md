@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/Maharahstra.png" : "cali2"
+  - "/img/Maharahstra.png" : "Maharasthra, India. 2017"
 ---
 <h1>Hello!<h1>
 
