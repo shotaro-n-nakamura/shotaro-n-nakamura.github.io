@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/cali2.png" : "cali2"
+  - "/img/Maharahstra.png" : "cali2"
 ---
 <h1>Hello!<h1>
 
