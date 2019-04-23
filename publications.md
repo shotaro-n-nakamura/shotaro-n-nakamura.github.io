@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publications
 bigimg:
   - "/img/Ladakh.png" : "Ladakh, Jammu & Kashmir, India"
 ---
+# Publications
 
 ### Scientific publicationss
 
