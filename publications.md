@@ -3,7 +3,8 @@ layout: page
 bigimg:
   - "/img/Ladakh.png" : "Ladakh, Jammu & Kashmir, India"
 ---
-# Publications
+
+**Publications**
 
 ### Scientific publicationss
 
@@ -11,10 +12,10 @@ bigimg:
 Waseem. 2019. Origin, ecology, and human conflict of grey wolf (*Canis lupus*) in
 Suleiman Range, South Waziristan, Pakistan. *Mammalia* [Link](https://www.degruyter.com/view/j/mamm.ahead-of-print/mammalia-2018-0167/mammalia-2018-0167.xml)
 
-**4.)** Sadhukhan S, **LM Hennelly**, B Habib. In review. Characterising the vocal
+**4.)** Sadhukhan S, **LM Hennelly**, B Habib. *In review*. Characterising the vocal
 repertoire of the Indian wolf (*Canis lupus pallipes*). *Plos One*. [Link](https://www.biorxiv.org/content/10.1101/612507v1?rss=1)
 
-**3.)** Weyna A, RR Dubielzig, **LM Hennelly**. Accepted. The relative importance of
+**3.)** Weyna A, RR Dubielzig, **LM Hennelly**. *In revision*. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
 iridica in hooved mammals. *Veterinary Ophthalmology*
 
