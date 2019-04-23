@@ -11,7 +11,7 @@ lmhennelly@ucdavis.edu
 
 @laurenhennelly1 (Twitter)
 
-## **Education**
+## **EDUCATION**
 
 2016-current   Ph.D candidate, University of California, Davis. 
 
@@ -23,7 +23,7 @@ Advisor: Dr. Ben Sacks
 
 Thesis title: *Ecological and phylogenetic influences on vertebrate eye morphology*
 
-## **Fellowships**
+## **FELLOWSHIPS**
 
 2017  National Science Foundation Graduate Research Fellowship
 
@@ -33,5 +33,5 @@ Thesis title: *Ecological and phylogenetic influences on vertebrate eye morpholo
 
 2012  Hilldale Undergraduate/Faculty Research Fellowship
 
-## **Awards and Grants**
+## **AWARDS AND GRANTS**
 
