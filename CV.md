@@ -7,17 +7,17 @@ bigimg:
 
 ## **Lauren Hennelly**
 
-lmhennelly@ucdavis.edu
+email: lmhennelly@ucdavis.edu
 
 @laurenhennelly1 (Twitter)
 
 ## **EDUCATION**
 
-2016-current   Ph.D candidate, University of California, Davis. 
+2016-current   Ph.D candidate in Ecology, **University of California, Davis**
 
-Advisor: Dr. Ben Sacks 
+*Advisor*: Dr. Ben Sacks 
 
-2013 B.S, University of Wisconsin-Madison, Madision, WI. 
+2013 B.S, **University of Wisconsin-Madison**, Madision, WI. 
 
 *Major*: Evoltuionary Biology, honors in research
 
