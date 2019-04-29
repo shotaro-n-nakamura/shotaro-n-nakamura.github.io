@@ -19,7 +19,7 @@ email: lmhennelly@ucdavis.edu
 
 2013 B.S, **University of Wisconsin-Madison**, Madision, WI. 
 
-*Major*: Evoltuionary Biology, honors in research
+*Major*: Evolutionary Biology, honors in research
 
 Thesis title: *Ecological and phylogenetic influences on vertebrate eye morphology*
 
