@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/Ladakh.png" : "Ladakh, Jammu & Kashmir, India"
+  - "/img/Ladakh.png" : "Ladakh, Jammu & Kashmir, India. 2017"
 --- 
 
 **Scientific publications**
