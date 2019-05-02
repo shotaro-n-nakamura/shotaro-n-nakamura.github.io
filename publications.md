@@ -4,7 +4,9 @@ bigimg:
   - "/img/Ladakh.png" : "Ladakh, Jammu & Kashmir, India"
 --- 
 
-Scientific publications
+**Scientific publications**
+
+Please reach out to me if you can't access any publications.
 
 **5.)** Hamid A, T Mahmood, H Fatima, **LM Hennelly**, R Akrim, A Hussain, M
 Waseem. 2019. Origin, ecology, and human conflict of grey wolf (*Canis lupus*) in
