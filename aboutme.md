@@ -5,7 +5,7 @@ bigimg:
 ---
 **Hello!**
 
-My name is Lauren Hennelly and I'm a Ph.D Candidate in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu/) at the University of California, Davis. I'm broadly interested in studying the proccesses that influence patterns in genomic variation across populations and between species. Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
+My name is Lauren Hennelly and I'm a Ph.D Candidate in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu/) at the University of California, Davis. I'm broadly interested in studying the proccesses that influence patterns in genomic variation across populations and between species. I also have a strong interest in applying genomic and field-based tools to studying the ecology and evolution of groups of species. Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
 
 ![me](/img/Screen Shot 2019-04-20 at 5.39.38 PM.png)
 
