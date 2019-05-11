@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/Ladakh.png" : "Ladakh, Jammu & Kashmir, India. 2017"
+  - "/img/Karakoram.png" : "Karakoram range, Gilgit-Baltistan, Pakistan. 2018"
 --- 
 
 **Scientific publications**
