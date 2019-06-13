@@ -10,16 +10,16 @@ Please reach out to me if you can't access any publications.
 
 **6.)** Mahmood T, I Rafaqat, **LM Hennelly**, H Fatima, F Akrim, MR Khan, A Hamid, S Andleeb, IU Zaman. In prep. Phylogenetic status, diet composition, and distribution of the Kashmir red fox inhabiting Ayubia National Park, Pakistan. 
 
-**5.)** Hamid A, T Mahmood, H Fatima, **LM Hennelly**, R Akrim, A Hussain, M
-Waseem. 2019. Origin, ecology, and human conflict of grey wolf (*Canis lupus*) in
-Suleiman Range, South Waziristan, Pakistan. *Mammalia* [Link](https://www.degruyter.com/view/j/mamm.ahead-of-print/mammalia-2018-0167/mammalia-2018-0167.xml)
-
-**4.)** Sadhukhan S, **LM Hennelly**, B Habib. *In review*. Characterising the vocal
+**5.)** Sadhukhan S, **LM Hennelly**, B Habib. *Accepted with revision*. Characterising the vocal
 repertoire of the Indian wolf (*Canis lupus pallipes*). *Plos One*. [Link](https://www.biorxiv.org/content/10.1101/612507v1?rss=1)
 
-**3.)** Weyna A, RR Dubielzig, **LM Hennelly**. *Resubmitted*. The relative importance of
+**4.)** Weyna A, RR Dubielzig, **LM Hennelly**. *Accepted with revision*. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
 iridica in hooved mammals. *Veterinary Ophthalmology*
+
+**3.)** Hamid A, T Mahmood, H Fatima, **LM Hennelly**, R Akrim, A Hussain, M
+Waseem. 2019. Origin, ecology, and human conflict of grey wolf (*Canis lupus*) in
+Suleiman Range, South Waziristan, Pakistan. *Mammalia* [Link](https://www.degruyter.com/view/j/mamm.ahead-of-print/mammalia-2018-0167/mammalia-2018-0167.xml)
 
 **2.)** **Hennelly LM**, B Habib, H Root-Gutteridge, V Palacios, D Passilongo. 2017.
 Howl variation across Himalayan, North African, Indian and Holarctic wolf
