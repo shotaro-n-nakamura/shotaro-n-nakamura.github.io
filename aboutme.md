@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/wolf1.png" : "Maharasthra, India. 2015"
+  - "/img/wolf2.png" : "Maharasthra, India. 2015"
 ---
 **Hello!**
 
