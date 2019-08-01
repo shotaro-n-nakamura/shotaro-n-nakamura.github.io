@@ -23,6 +23,9 @@ I thought I would share some information that might be helpful:
   - Opportunities at the [Field Musuem of Natural History Museum](https://www.fieldmuseum.org/about/careers/internships) in Chicago
   - Summer Systematics Institute Internship at the [California Academy of Sciences](https://www.calacademy.org/summer-systematics-institute)
   
+- If you've recieved a Federal Pell Grant from the U.S Government, you could be eligible for the [Bejamin A. Gilman International Scholarship](https://www.gilmanscholarship.org/program/eligibility/), which finiacially supports undergraduates at 4 and 2 year colleges to study abroad. I've seen some students incorporate wildlife research internships into their study abroad experience (this [student](https://www.gilmanscholarship.org/2019/02/18/gilman-scholars-independent-study-in-madagascar/) did an wildlife internship in Madagascar)
+
+
 
 
 
