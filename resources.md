@@ -40,7 +40,11 @@ Here's a list of a few grants and fellowship opportunities
 
 - [The Mohamed bin Zayed Species Conservation Fund](https://www.speciesconservation.org/) : this organization provides grants to individual species conservation initiatives, mostly focused on species that are endangered or threatened.
 
-- [The Alongside Wildlife Foundation](https://alongsidewildlifefoundation.org/): This NGO 
+- [The Alongside Wildlife Foundation](https://alongsidewildlifefoundation.org/): This NGO helps fund projects that are important yet typically overlooked by most funding agencies and organizations. Some of these often overlooked areas include projects that generate basic but fundamental information about species and projects involving science communciation. 
+
+- **for scholars based not in USA** [SCGIS International Scholarship Program](https://www.scgis.org/content/training/international-scholarship-program) is designed to allow conservation GIS practitioners to attend the Esri User Conference adn SCGIS Annual Conference in California, as well as allow them to take specialized three-week GIS courses at University of California, Davis!
+
+
 
 
 
