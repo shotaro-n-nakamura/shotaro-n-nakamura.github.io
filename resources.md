@@ -14,7 +14,7 @@ I thought I would share some information that might be helpful:
 
 - At many universities and colleges, professors that teach classes often have a lab of graduate students doing research. These labs sometimes have opportunities for undergraduates to get involved with research, which is an excellent way to experience the process of research. If you find a certain professor or graduate student's research interesting and would like to get involved, you could consider emailing them to see if there are any research opportunities in their lab.   
 
-- [Research Experiences for Undergraduates (REU)] (https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5047): this program funded by the National Science Foundation provides some fully funded, amazing opportunities to work with scientists and conduct research in the summer months. 
+- [Research Experiences for Undergraduates](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5047) : this program funded by the National Science Foundation provides some fully funded, amazing opportunities to work with scientists and conduct research in the summer months. 
 
 
 
