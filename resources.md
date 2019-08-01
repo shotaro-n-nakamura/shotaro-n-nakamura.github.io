@@ -28,7 +28,7 @@ I thought I would share some information that might be helpful:
 
 Here's a list of a few grants and fellowship opportunities: 
 
-- [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad AND individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange.
+- [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad **AND** individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange.
 
   - For the Research Awards, applicants can design a research project in collaboration with an organization based abroad. I did a Fulbright in 2014 to study wolves in India -- if anyone has any questions about the application process, I'm happy to answer questions over email. 
   
