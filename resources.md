@@ -4,7 +4,7 @@ bigimg:
   - "/img/wolf3.png" : "Maharasthra, India. 2015"
 ---
 
-### About research opportunities 
+About research opportunities 
 
 I was raised in a small town on the Illinois-Wisconsin border and was lucky to have a family that encouraged me to follow whatever I was passionate about. With no one in my immediate and extended family involved in a STEM field or obtaining a post-undergraduate degree, I found the process of how to find opportunities in science, applying to graduate school, and how to fund research difficult to navigate. I've been lucky to have had wonderful mentors during my undergrad at UW Madison that have helped guide me on the path of becoming a scientist.   
 
@@ -21,7 +21,7 @@ I thought I would share some information that might be helpful:
 - Many large natural history museums offer both paid and unpaid internships to work with scientists on various projects. Here's a few links of internships by various museums: 
   - Opportunities at the [National Museum of Natural History](https://www.smithsonianofi.com/internship-opportunities/) in Washington DC
   - Opportunities at the [Field Musuem of Natural History Museum](https://www.fieldmuseum.org/about/careers/internships) in Chicago
-  - 
+  - Summer Systematics Institute Internship at the [California Academy of Sciences](https://www.calacademy.org/summer-systematics-institute)
   
 
 
