@@ -5,7 +5,7 @@ bigimg:
 --- 
 I was raised in a small town on the Illinois-Wisconsin border and was lucky to have a family that encouraged me to follow whatever I was passionate about. With no one in my immediate and extended family involved in a STEM field or obtaining a post-undergraduate degree, I found the process of how to find opportunities in science, applying to graduate school, and how to fund research difficult to navigate. I've been lucky to have had wonderful mentors during my undergrad at UW Madison that have helped guide me on the path of becoming a scientist.   
 
-I thought I would share some information that might be helpful below. This information is aimed at U.S. based undergraduates and graduate students working abroad (such as in Pakistan and India): 
+I thought I would share some information that might be helpful below.
 
 ### Getting experience in the research
 
@@ -24,7 +24,7 @@ I thought I would share some information that might be helpful below. This infor
   - Summer Systematics Institute Internship at the [California Academy of Sciences](https://www.calacademy.org/summer-systematics-institute)
   
 
-- If you've recieved a Federal Pell Grant from the U.S Government, you could be eligible for the [Bejamin A. Gilman International Scholarship](https://www.gilmanscholarship.org/program/eligibility/), which finiacially supports undergraduates at 4 and 2 year colleges to study abroad. I've seen some students incorporate wildlife research internships into their study abroad experience (this [student](https://www.gilmanscholarship.org/2019/02/18/gilman-scholars-independent-study-in-madagascar/) did an wildlife internship in Madagascar)
+- If you've recieved a Federal Pell Grant from the U.S Government, you could be eligible for the [Bejamin A. Gilman International Scholarship](https://www.gilmanscholarship.org/program/eligibility/), which financially supports undergraduates at 4 and 2 year colleges to study abroad. I've seen some students incorporate wildlife research internships into their study abroad experience (this [student](https://www.gilmanscholarship.org/2019/02/18/gilman-scholars-independent-study-in-madagascar/) did an wildlife internship in Madagascar)
 
 ### Grants for Wildlife Research 
 
@@ -42,9 +42,9 @@ Here's a list of a few grants and fellowship opportunities
 
 - [The Alongside Wildlife Foundation](https://alongsidewildlifefoundation.org/): This NGO helps fund projects that are important yet typically overlooked by most funding agencies and organizations. Some of these often overlooked areas include projects that generate basic but fundamental information about species and projects involving science communciation. 
 
-- **for scholars based not in USA** [SCGIS International Scholarship Program](https://www.scgis.org/content/training/international-scholarship-program) is designed to allow conservation GIS practitioners to attend the Esri User Conference adn SCGIS Annual Conference in California, as well as allow them to take specialized three-week GIS courses at University of California, Davis!
+- **for scholars based not in USA:** [SCGIS International Scholarship Program](https://www.scgis.org/content/training/international-scholarship-program) is designed to allow conservation GIS practitioners to attend the Esri User Conference adn SCGIS Annual Conference in California, as well as allow them to take specialized three-week GIS courses at University of California, Davis!
 
-
+- **for scholars based not in USA:** [Conservation Leadership Programme](http://www.conservationleadershipprogramme.org/): this organization supports early career conservationists with project funding, as well as training and network opportunities. 
 
 
 
