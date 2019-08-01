@@ -2,10 +2,7 @@
 layout: page
 bigimg:
   - "/img/wolf3.png" : "Maharasthra, India. 2015"
----
-
-About research opportunities 
-
+--- 
 I was raised in a small town on the Illinois-Wisconsin border and was lucky to have a family that encouraged me to follow whatever I was passionate about. With no one in my immediate and extended family involved in a STEM field or obtaining a post-undergraduate degree, I found the process of how to find opportunities in science, applying to graduate school, and how to fund research difficult to navigate. I've been lucky to have had wonderful mentors during my undergrad at UW Madison that have helped guide me on the path of becoming a scientist.   
 
 I thought I would share some information that might be helpful: 
@@ -31,9 +28,8 @@ I thought I would share some information that might be helpful:
 
 Here's a list of a few grants and fellowship opportunities: 
 
-- [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad AND individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange. 
+- [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad AND individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange. Funded by the U.S. Department of State, this program offers research, study, and teaching opportunites in over 140 countries to recent graduates, graduate students, artists, and professionals. 
 
-Funded by the U.S. Department of State, this program offers research, study, and teaching opportunites in over 140 countries to recent graduates, graduate students, artists, and professionals. 
   - For the Research Awards, applicants can design a research project to 
 
 
