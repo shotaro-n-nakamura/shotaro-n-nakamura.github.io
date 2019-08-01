@@ -7,7 +7,7 @@ I was raised in a small town on the Illinois-Wisconsin border and was lucky to h
 
 I thought I would share some information that might be helpful: 
 
-#### Getting experience in the research
+### Getting experience in the research
 
 - At many universities and colleges, professors that teach classes often have a lab of graduate students doing research. These labs sometimes have opportunities for undergraduates to get involved with research, which is an excellent way to experience the process of research. If you find a certain professor or graduate student's research interesting and would like to get involved, you could consider emailing them to see if there are any research opportunities in their lab.   
 
