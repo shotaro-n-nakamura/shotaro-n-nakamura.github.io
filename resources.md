@@ -11,6 +11,8 @@ I thought I would share some information that might be helpful below. This infor
 
 - At many universities and colleges, professors that teach classes often have a lab of graduate students doing research. These labs sometimes have opportunities for undergraduates to get involved with research, which is an excellent way to experience the process of research. If you find a certain professor or graduate student's research interesting and would like to get involved, you could consider emailing them to see if there are any research opportunities in their lab.   
 
+  - For **UC Davis undergrads** there is a [google doc](https://docs.google.com/spreadsheets/u/1/d/1sk-_PiYOKjV3f4sIWQuMLhef8JQiHRh8mgInhH_wAD4/edit?ouid=113616721582252285383&usp=sheets_home&ths=true) that has undergraduate research/field work opportunities to work with graduate students on a wide range of projects (wildlife, entomology, soil science, agriculture, etc)
+
 - [Research Experiences for Undergraduates](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5047) : this program funded by the National Science Foundation provides fully funded, amazing opportunities to work with scientists and conduct research in the summer months. 
 
 - [Texas A&M Job Board](https://wfscjobs.tamu.edu/job-board/) : this webpage posts various wildlife-related jobs, including short-term positions over the summer months. Becoming a field technician is a great way to gain on-the-ground fieldwork experience and spend time learning about wildlife biology outside of the classroom! 
