@@ -39,7 +39,7 @@ Conservation Trust’s *Wolf Print Magazine*. March 2018 Issue, pages 26-28 [Lin
 
 **Hennelly LM**. 2015. Chasing Shanku: wolf research in the High Himalaya.
 *International Wolf Magazine*. Summer 2015 issue, pages 12-13.[Link](https://www.wolf.org/wp-content/uploads/2013/12/IW_winter2015final.pdf)
-
+c
 **Hennelly LM**. Chasing Shanku: wolf research in the High Himalaya. UK Wolf
 Conservation Trust’s *Wolf Print Magazine* (reprint from International Wolf
 Magazine). Summer 2017 issue.
