@@ -40,9 +40,7 @@ Here's a list of a few grants and fellowship opportunities
 
 - [The Mohamed bin Zayed Species Conservation Fund](https://www.speciesconservation.org/) : this organization provides grants to individual species conservation initiatives, mostly focused on species that are endangered or threatened.
 
-
-
-- 
+- [The Alongside Wildlife Foundation](https://alongsidewildlifefoundation.org/): This 
 
 
 
