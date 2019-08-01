@@ -27,6 +27,16 @@ I thought I would share some information that might be helpful:
 
 - If you've recieved a Federal Pell Grant from the U.S Government, you could be eligible for the [Bejamin A. Gilman International Scholarship](https://www.gilmanscholarship.org/program/eligibility/), which finiacially supports undergraduates at 4 and 2 year colleges to study abroad. I've seen some students incorporate wildlife research internships into their study abroad experience (this [student](https://www.gilmanscholarship.org/2019/02/18/gilman-scholars-independent-study-in-madagascar/) did an wildlife internship in Madagascar)
 
+### Grants for Wildlife Research 
+
+Here's a list of a few grants and fellowship opportunities: 
+
+- [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad AND individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange. 
+
+Funded by the U.S. Department of State, this program offers research, study, and teaching opportunites in over 140 countries to recent graduates, graduate students, artists, and professionals. 
+  - For the Research Awards, applicants can design a research project to 
+
+
 
 
 
