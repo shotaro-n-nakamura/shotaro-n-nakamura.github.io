@@ -4,7 +4,7 @@ bigimg:
   - "/img/Karakoram.png" : "Karakoram range, Gilgit-Baltistan, Pakistan. 2018"
 --- 
 
-**Scientific publications**
+### **Scientific publications**
 
 Please reach out to me if you can't access any publications.
 
