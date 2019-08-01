@@ -5,7 +5,7 @@ bigimg:
 --- 
 I was raised in a small town on the Illinois-Wisconsin border and was lucky to have a family that encouraged me to follow whatever I was passionate about. With no one in my immediate and extended family involved in a STEM field or obtaining a post-undergraduate degree, I found the process of how to find opportunities in science, applying to graduate school, and how to fund research difficult to navigate. I've been lucky to have had wonderful mentors during my undergrad at UW Madison that have helped guide me on the path of becoming a scientist.   
 
-I thought I would share some information that might be helpful: 
+I thought I would share some information that might be helpful below. This information is aimed at U.S. based undergraduates and graduate students working abroad: 
 
 ### Getting experience in the research
 
@@ -34,7 +34,7 @@ Here's a list of a few grants and fellowship opportunities:
   
   - **For Pakistani scholars**: Pakistan has one of the largest Fulbright program and offers a wide range of fellowship types (grants for funding graduate degrees, undergraduate and teacher exchange programs, etc). Check out the [United States Educational Foundation in Pakistan](https://www.usefpakistan.org/ProgramsHome.cfm?Tab=Programs)'s website for more information. 
 
-
+- [The Rufford 
 
 
 
