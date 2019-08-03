@@ -9,7 +9,9 @@ My name is Lauren Hennelly and I'm a Ph.D Candidate in the [Mammalian Ecology an
 
 I'm broadly interested in studying the processes that influence patterns in genomic variation across populations and between species. I also have a strong interest in studying the behavior, ecology and evolution of mammals . Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
 
-My current thesis research is broadly on using genomics to study the evolutionary history  of wolf-like canids in Asia, with a focus on South and Central Asia. A strong component of my thesis research is focused on wolves in South Asia and involves collaboration with various government organizations, universities, and NGOs in India and Pakistan. 
+My current thesis research is broadly on using genomics to study the evolutionary history  of wolf-like canids in Asia, with a focus on South and Central Asia. 
+
+A strong component of my thesis research is focused on wolves in South Asia and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India. 
 
 ![me](/img/Screen Shot 2019-04-20 at 5.39.38 PM.png)
 
