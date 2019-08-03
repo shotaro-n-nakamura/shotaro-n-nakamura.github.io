@@ -6,7 +6,7 @@ bigimg:
 I was raised in a small town on the Illinois-Wisconsin border and was lucky to have a family that encouraged me to follow whatever I was passionate about. With no one in my immediate and extended family involved in a STEM field or obtaining a post-undergraduate degree, I found the process of how to find opportunities in science, applying to graduate school, and how to fund research difficult to navigate. I've been lucky to have had wonderful mentors during my undergrad at UW Madison that have helped guide me on the path of becoming a scientist.   
 
 I thought I would share some information about obtaining research experience, grants, and graduate school tips that might be helpful below.
-
+d
 ### Getting experience in the research
 
 - At many universities and colleges, professors that teach classes often have a research lab full of graduate students and other scientists. These labs sometimes have opportunities for undergraduates to get involved with research. If you find a certain professor or graduate student's research interesting and would like to get involved, you could consider emailing them to see if there are any research opportunities in their lab.   
