@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/DeosaiNP.png" : "Blaine County, Idaho, USA"
+  - "/img/DeosaiNP.png" : "Deosai National Park, Gilgit-Baltistan, Pakistan. 2018"
 
 ---
 
