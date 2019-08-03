@@ -55,7 +55,8 @@ The advice from [Dr. Jennie Miller](https://www.jennie-miller.com/) provides a g
 
 Dr. Anusha Shanka also provides [tips](http://anushashankar.weebly.com/grad-school-advice.html) on applying to graduate school. 
 
-There are a few competitive fellowship programs that can provide stipend support and freedom  
+The Brashares Group at University of California-Berkeley also offers [advice](https://nature.berkeley.edu/BrasharesGroup/advice/) for applying to graduate school for ecology/evolution/conservation.  
+
 
 
 
