@@ -5,7 +5,7 @@ bigimg:
 --- 
 I was raised in a small town on the Illinois-Wisconsin border and was lucky to have a family that encouraged me to follow whatever I was passionate about. With no one in my immediate and extended family involved in a STEM field or obtaining a post-undergraduate degree, I found the process of how to find opportunities in science, applying to graduate school, and how to fund research difficult to navigate. I've been lucky to have had wonderful mentors during my undergrad at UW Madison that have helped guide me on the path of becoming a scientist.   
 
-I thought I would share some information that might be helpful below.
+I thought I would share some information about obtaining research experience, grants, and graduate school tips that might be helpful below.
 
 ### Getting experience in the research
 
