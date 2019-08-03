@@ -49,7 +49,14 @@ Here's a list of a few grants and fellowship opportunities
 
 ### APPLYING TO GRADUATE SCHOOL
 
-The process of applying to graduate school for studying ecology, conservation, and evolution can be a bit confusing.  
+The process of applying to an Ecology/Evolution/Conservation graduate program in the U.S.A can be a bit confusing. The process is not as straight foward as just writing applications and taking the GRE. 
+
+The advice from [Dr. Jennie Miller](https://www.jennie-miller.com/) provides a great overview on the application process and is tailored for **international students** that may not be familar with the typical procedures of applying to U.S. schools. You can find the pdf [here](http://www.jennie-miller.com/uploads/5/8/7/0/5870991/jennies_tips_on_how_to_apply_to_grad_school.pdf). 
+
+Dr. Anusha Shanka also provides [tips](http://anushashankar.weebly.com/grad-school-advice.html) on applying to graduate school. 
+
+There are a few competitive fellowship programs that can provide stipend support and freedom  
+
 
 
 
