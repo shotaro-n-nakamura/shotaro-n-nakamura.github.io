@@ -26,13 +26,14 @@ I thought I would share some information that might be helpful below.
 
 - If you've recieved a Federal Pell Grant from the U.S Government, you could be eligible for the [Bejamin A. Gilman International Scholarship](https://www.gilmanscholarship.org/program/eligibility/), which financially supports undergraduates at 4 and 2 year colleges to study abroad. I've seen some students incorporate wildlife research internships into their study abroad experience (this [student](https://www.gilmanscholarship.org/2019/02/18/gilman-scholars-independent-study-in-madagascar/) did an wildlife internship in Madagascar)
 
+- Here's a [list of organizations and job boards](https://www.jennie-miller.com/uploads/5/8/7/0/5870991/conservation_career_resources.pdf) compiled by Dr. Jennie Miller (Defenders of Wildlife) that also might be useful. 
 ### Grants for Wildlife Research 
 
 Here's a list of a few grants and fellowship opportunities 
 
 - [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad **AND** individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange.
 
-  - For the Research Awards, applicants can design a research project in collaboration with an organization based abroad. I did a Fulbright in 2014 to study wolves in India -- if anyone has any questions about the application process, I'm happy to answer questions over email. 
+  - For the Research Awards, applicants can design a research project in collaboration with an organization based abroad (or a US-based organziation/university if applying from abroad). I did a Fulbright in 2014 to study wolves in India -- if anyone has any questions about the application process, I'm happy to answer questions over email. 
   
   - **For Pakistani scholars**: Pakistan has one of the largest Fulbright program and offers a wide range of fellowship types (grants for funding graduate degrees, undergraduate and teacher exchange programs, etc). Check out the [United States Educational Foundation in Pakistan](https://www.usefpakistan.org/ProgramsHome.cfm?Tab=Programs)'s website for more information. 
 
@@ -46,7 +47,9 @@ Here's a list of a few grants and fellowship opportunities
 
 - **for scholars based not in USA:** [Conservation Leadership Programme](http://www.conservationleadershipprogramme.org/): this organization supports early career conservationists with project funding, as well as training and network opportunities. 
 
+### APPLYING TO GRADUATE SCHOOL
 
+The process of applying to graduate school for studying ecology, conservation, and evolution can be a bit confusing.  
 
 
 
