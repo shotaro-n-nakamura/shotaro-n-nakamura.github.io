@@ -5,33 +5,14 @@ bigimg:
 
 ---
 
-**Lauren Hennelly**
+Here's a current version of my **curriculum vitae** below. You can also [download the PDF here](/img/Lauren Hennelly CV.pdf).
 
-email: lmhennelly@ucdavis.edu
+<!--(https://www.dropbox.com/s/jh19qlprx4xroc4/rap-rmarkdown-cv.pdf).-->
 
-@laurenhennelly1 (Twitter)
+<object data="/img/Lauren Hennelly CV.pdf" type="application/pdf" width="800px" height="800px">
+    <embed src="/img/Lauren Hennelly CV.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Wohlfeil_CV_GRIN.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-## **EDUCATION**
-
-2016-current   Ph.D candidate in Ecology, **University of California, Davis**
-
-*Advisor*: Dr. Ben Sacks 
-
-2013 B.S, **University of Wisconsin-Madison**, Madision, WI. 
-
-*Major*: Evolutionary Biology, honors in research
-
-Thesis title: *Ecological and phylogenetic influences on vertebrate eye morphology*
-
-## **FELLOWSHIPS**
-
-2017  National Science Foundation Graduate Research Fellowship
-
-2016  UC Davis Graduate Group in Ecology Fellowships
-
-2014  U.S. Fulbright Student Research Fellowship to India
-
-2012  Hilldale Undergraduate/Faculty Research Fellowship
-
-## **AWARDS AND GRANTS**
-
+<!--{% include embedpdf.html code="jh19qlprx4xroc4/rap-rmarkdown-cv.pdf" width=100 height=800 %}-->
