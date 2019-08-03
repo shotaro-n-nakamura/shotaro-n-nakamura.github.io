@@ -5,7 +5,7 @@ bigimg:
 
 ---
 
-## **Lauren Hennelly**
+**Lauren Hennelly**
 
 email: lmhennelly@ucdavis.edu
 
