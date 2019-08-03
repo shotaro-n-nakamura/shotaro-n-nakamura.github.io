@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/idaho.png" : "Blaine County, Idaho, USA"
+  - "/img/DeosaiNP.png" : "Blaine County, Idaho, USA"
 
 ---
 
