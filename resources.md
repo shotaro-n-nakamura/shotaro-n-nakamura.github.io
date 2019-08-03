@@ -53,7 +53,7 @@ The process of applying to an Ecology/Evolution/Conservation graduate program in
 
 The advice from [Dr. Jennie Miller](https://www.jennie-miller.com/) provides a great overview on the application process and is tailored for **international students** that may not be familar with the typical procedures of applying to U.S. schools. You can find the pdf [here](http://www.jennie-miller.com/uploads/5/8/7/0/5870991/jennies_tips_on_how_to_apply_to_grad_school.pdf). 
 
-Dr. Anusha Shanka also provides [tips](http://anushashankar.weebly.com/grad-school-advice.html) on applying to graduate school. 
+Dr. Anusha Shankar also provides [tips](http://anushashankar.weebly.com/grad-school-advice.html) on applying to graduate school. 
 
 The Brashares Group at University of California-Berkeley also offers [advice](https://nature.berkeley.edu/BrasharesGroup/advice/) for applying to graduate school for ecology/evolution/conservation.  
 
