@@ -48,6 +48,8 @@ Here's a list of a few grants and fellowship opportunities
 
 - **for scholars based not in USA:** [Conservation Leadership Programme](http://www.conservationleadershipprogramme.org/): this organization supports early career conservationists with project funding, as well as training and network opportunities. 
 
+- **for scholars based not in USA:** [IDEA WILD](http://www.ideawild.org/) is a great NGO that aims to empower conservationists by awarding equipment grants for projects focused on research, conservation education, field training, etc. For example, IDEA WILD provides equipment such as camera traps, spotting scopes, tents, binoculars, GPS units to conservation projects worldwide. 
+
 ### APPLYING TO GRADUATE SCHOOL
 
 The process of applying to an Ecology/Evolution/Conservation graduate program in the U.S.A can be a bit confusing. The process is not as straight foward as just writing applications and taking the GRE. 
