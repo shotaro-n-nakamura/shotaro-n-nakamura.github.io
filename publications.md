@@ -28,7 +28,6 @@ clades: tracing divergence in the world’s oldest wolf lineages using acoustics
 
   - *Research covered in LiveMint magazine* [Link](https://www.livemint.com/Leisure/PMYYorrIf6kFNmuHDQwGMO/Calling-on-the-wolf.html) 
   - *Research covered in Pune Mirror* [Link](https://punemirror.indiatimes.com/pune/others/howling-survey-to-aid-state-wolf-conservation/articleshow/49173834.cms)
-  - *Research covered in a local newspaper in Nainital (written in Hindi)
   
 **1.)** **Hennelly LM**, B Habib, and S Lyngdoh. 2015. Himalayan wolf and feral dog
 displaying mating behavior from Spiti Valley, India and potential conservation
