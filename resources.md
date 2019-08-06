@@ -34,7 +34,7 @@ Here's a list of a few grants and fellowship opportunities
 
 - [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad **AND** individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange.
 
-  - For the Research Awards, applicants can design a research project in collaboration with an organization based abroad (or a US-based organziation/university if applying from abroad). I did a Fulbright in 2014 to study wolves in India -- if anyone has any questions about the application process, I'm happy to answer questions over email. 
+  - For the Research Awards, applicants can design a research project in collaboration with an organization based abroad (or a US-based organization/university if applying from abroad). I did a Fulbright in 2014 to study wolves in India -- if anyone has any questions about the application process, I'm happy to answer questions over email. 
   
   - **For Pakistani scholars**: Pakistan has one of the largest Fulbright program and offers a wide range of fellowship types (grants for funding graduate degrees, undergraduate and teacher exchange programs, etc). Check out the [United States Educational Foundation in Pakistan](https://www.usefpakistan.org/ProgramsHome.cfm?Tab=Programs)'s website for more information. 
 
