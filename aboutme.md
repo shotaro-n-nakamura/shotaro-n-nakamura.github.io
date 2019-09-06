@@ -11,11 +11,11 @@ I'm broadly interested in studying the processes that influence patterns in geno
 
 My current thesis research is broadly on using genomics to study the evolutionary history of wolf-like canids in Asia and Africa.
 
-- A strong component of this research is focused on **wolves in South Asia** and involves collaboration with various government organizations,  universities, and NGOs in Pakistan and India. 
+- A strong component of this research is focused on **wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India. 
 
 ![me](/img/Screen Shot 2019-04-20 at 5.39.38 PM.png)
 
-Originally from Illinois, I obtained my B.S. in Evolutionary Biology at the University of Wisconsin-Madison. After graduating, I worked various field positions in the Indian Himalaya, Australia, and New Zealand. In 2014, I became a [Fulbright](https://us.fulbrightonline.org/) scholar affiliated with the [Wildlife Institute of India](http://www.wii.gov.in) to studying Himalayan and Indian wolf behavior, involving fieldwork on the Tibetan plateau, Trans Himalaya, and grasslands of Maharashtra. Currently, I'm a External PhD scholar with the Wildlife Insitute of India, where I collaborate with the [BH Lab](http://bhlab.in/) (under Dr. Bilal Habib). 
+Originally from Illinois, I obtained my B.S. in Evolutionary Biology at the University of Wisconsin-Madison. After graduating, I worked various field positions in the Indian Himalaya, Australia, and New Zealand. In 2014, I became a [Fulbright](https://us.fulbrightonline.org/) scholar affiliated with the [Wildlife Institute of India](http://www.wii.gov.in) to studying Himalayan and Indian wolf behavior. 
 
-Before starting my Ph.D at University of California, Davis, I was a research technician with the Wyoming Cooperative Fish and Wildlife Research Unit and a Project Biologist for the [Wood River Wolf Project](https://www.woodriverwolfproject.org/) based in Idaho. In my freetime, I enjoy spending time outdoors -- whether hiking, camping, or observing wildlife. 
+Before starting my Ph.D at University of California, Davis, I was a research technician with the Wyoming Cooperative Fish and Wildlife Research Unit and a Project Biologist for the [Wood River Wolf Project](https://www.woodriverwolfproject.org/) based in Idaho. In my freetime, I enjoy spending time outdoors -- whether hiking, camping, or observing wildlife.  
 
