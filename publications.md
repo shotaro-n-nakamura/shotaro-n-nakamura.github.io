@@ -13,7 +13,7 @@ Please reach out to me if you can't access any publications.
 **5.)** Sadhukhan S, **LM Hennelly**, B Habib. 2019. Characterising the harmonic vocal
 repertoire of the Indian wolf (*Canis lupus pallipes*). *PloS One* https://doi.org/10.1371/journal.pone.0216186 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216186)
 
-**4.)** Weyna A, RR Dubielzig, **LM Hennelly**. *Accepted with revision*. The relative importance of
+**4.)** Weyna A, RR Dubielzig, **LM Hennelly**. *Accepted*. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
 iridica in hooved mammals. *Veterinary Ophthalmology*
 
