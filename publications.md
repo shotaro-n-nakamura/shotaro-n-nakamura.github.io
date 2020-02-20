@@ -10,12 +10,12 @@ Please reach out to me if you can't access any publications.
 
 **6.)** Mahmood T, I Rafaqat, **LM Hennelly**, H Fatima, F Akrim, MR Khan, A Hamid, S Andleeb, IU Zaman. *In prep*. Phylogenetic status, diet composition, and distribution of the Kashmir red fox inhabiting Ayubia National Park, Pakistan. 
 
-**5.)** Sadhukhan S, **LM Hennelly**, B Habib. 2019. Characterising the harmonic vocal
-repertoire of the Indian wolf (*Canis lupus pallipes*). *PloS One* https://doi.org/10.1371/journal.pone.0216186 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216186)
-
-**4.)** Weyna A, RR Dubielzig, **LM Hennelly**. *Accepted*. The relative importance of
+**5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
-iridica in hooved mammals. *Veterinary Ophthalmology*
+iridica in hooved mammals. *Veterinary Ophthalmology* 1-8.
+
+**4.)** Sadhukhan S, **LM Hennelly**, B Habib. 2019. Characterising the harmonic vocal
+repertoire of the Indian wolf (*Canis lupus pallipes*). *PloS One* https://doi.org/10.1371/journal.pone.0216186 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216186)
 
 **3.)** Hamid A, T Mahmood, H Fatima, **LM Hennelly**, R Akrim, A Hussain, M
 Waseem. 2019. Origin, ecology, and human conflict of grey wolf (*Canis lupus*) in
