@@ -8,11 +8,9 @@ bigimg:
 
 Please reach out to me if you can't access any publications.
 
-**6.)** Mahmood T, I Rafaqat, **LM Hennelly**, H Fatima, F Akrim, MR Khan, A Hamid, S Andleeb, IU Zaman. *In prep*. Phylogenetic status, diet composition, and distribution of the Kashmir red fox inhabiting Ayubia National Park, Pakistan. 
-
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
-iridica in hooved mammals. *Veterinary Ophthalmology* 1-8.
+iridica in hooved mammals. *Veterinary Ophthalmology* 1-8. https://onlinelibrary.wiley.com/doi/pdf/10.1111/vop.12742 [Link]
 
 **4.)** Sadhukhan S, **LM Hennelly**, B Habib. 2019. Characterising the harmonic vocal
 repertoire of the Indian wolf (*Canis lupus pallipes*). *PloS One* https://doi.org/10.1371/journal.pone.0216186 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216186)
