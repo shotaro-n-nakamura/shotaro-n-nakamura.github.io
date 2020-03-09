@@ -8,7 +8,7 @@ bigimg:
 
 Please reach out to me if you can't access any publications.
 
-Here's also my google scholar page: https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en
+Here's also my google scholar page: (https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
