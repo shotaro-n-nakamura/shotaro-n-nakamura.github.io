@@ -10,7 +10,7 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
-**6.)** Mahmood T, I Rafaqat, **LM Hennelly**, H Fatima, F Akrim, IU Zaman. *In Review*. Spatial distribution, Phylogenetic status and diet of red fox (Vulpes vulpes) inhabiting Ayubia National Park, Pakistan. Mammalia
+**6.)** Mahmood T, I Rafaqat, **LM Hennelly**, H Fatima, F Akrim, IU Zaman. *In Review*. Spatial distribution, Phylogenetic status and diet of red fox (*Vulpes vulpes*) inhabiting Ayubia National Park, Pakistan. Mammalia
 
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
