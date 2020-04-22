@@ -11,7 +11,7 @@ I'm broadly interested in studying the processes that influence patterns in geno
 
 My current thesis research is broadly on using genomics to study the evolutionary history of wolf-like canids in Asia and Africa.
 
-- A strong component of this research is focused on **wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India.. 
+- A strong component of this research is focused on **wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India.
 
 ![me](/img/Screen Shot 2019-04-20 at 5.39.38 PM.png)
 
