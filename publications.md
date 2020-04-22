@@ -6,7 +6,7 @@ bigimg:
 
 **Scientific publications**
 
-Please reach out to me if you can't access any publications..
+Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
