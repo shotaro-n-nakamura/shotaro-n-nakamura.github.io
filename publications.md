@@ -10,7 +10,7 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
-**7.)** Fatima H, T Mahmood, M Farooq, S Ali, F Akrim, **LM Hennelly**, BN Sacks.*In prep*. Using DNA-verified scats and other sign to assess distribution of sympatric carnivores in Margalla Hills National Park, Pakistan.  
+**7.)** Fatima H, T Mahmood, **LM Hennelly**, M Farooq, S Ali, F Akrim, BN Sacks.*In review*. Using DNA-verified scats and other sign to assess distribution of sympatric carnivores in Margalla Hills National Park, Pakistan. *Oryx - the International Journal of Conservation*
 
 **6.)** I Rafaqat, Mahmood T, **LM Hennelly**, H Fatima, F Akrim, IU Zaman. *In prep*. Phylogenetic status and diet of red fox (*Vulpes vulpes*) inhabiting Ayubia National Park, Pakistan. 
 
