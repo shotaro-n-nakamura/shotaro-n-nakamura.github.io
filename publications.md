@@ -12,7 +12,7 @@ Here's also my [google scholar page](https://scholar.google.com/citations?user=h
 
 **7.)** Fatima H, T Mahmood, **LM Hennelly**, M Farooq, S Ali, F Akrim, BN Sacks. *In review*. Using DNA-verified scats and other sign to assess distribution of sympatric carnivores in Margalla Hills National Park, Pakistan. *PloS One*
 
-**6.)** Rafaqat I, T Mahmood, **LM Hennelly**, IU Zaman, H Fatima, G Muhammad, Y Abbas, MR Khan, M Arif. *In review*. Phylogenetic status and diet of red fox (*Vulpes vulpes*) inhabiting Ayubia National Park, Pakistan. *Mammalian Research*
+**6.)** Rafaqat I, T Mahmood, **LM Hennelly**, IU Zaman, H Fatima, G Muhammad, Y Abbas, MR Khan, M Arif. *In review*. Phylogenetic status and diet of red fox (*Vulpes vulpes*) inhabiting Ayubia National Park, Pakistan. *Wildlife Biology*
 
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
