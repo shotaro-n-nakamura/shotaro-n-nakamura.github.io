@@ -53,7 +53,9 @@ Here's a list of a few grants and fellowship opportunities
 
 I came across this book during graduate school and it was very helpful for learning the art of clear and effective writing:
 
-"Writing Science: How to write papers that get cited and proposals that get funded" by Joshua Schimel.  
+"Writing Science: How to write papers that get cited and proposals that get funded" by Joshua Schimel. 
+
+The entire book is also freely available as a pdf here: http://dust.ess.uci.edu/ppr/ppr_Sch12.pdf
 
 
 
