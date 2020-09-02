@@ -4,13 +4,13 @@ bigimg:
   - "/img/truck.png" : "Painted Truck, Gilgit-Baltistan, Pakistan. 2018"
 --- 
 
-I thought I would share some information about obtaining research experience, grants, and graduate school tips that might be helpful below:
+I thought I would share some information about obtaining research experience, grants, writing sceince, and graduate school tips that might be helpful below:
 
 ### Getting experience in the research
 
 - At many universities and colleges, professors that teach classes often have a research lab full of graduate students and other scientists. These labs sometimes have opportunities for undergraduates to get involved with research. If you find a certain professor or graduate student's research interesting and would like to get involved, you could consider emailing them to see if there are any research opportunities in their lab.   
 
-  - For **UC Davis undergrads** there is a [google doc](https://docs.google.com/spreadsheets/u/1/d/1sk-_PiYOKjV3f4sIWQuMLhef8JQiHRh8mgInhH_wAD4/edit?ouid=113616721582252285383&usp=sheets_home&ths=true) that has undergraduate research/field work opportunities to work with graduate students on a wide range of projects (wildlife, entomology, soil science, agriculture, etc)
+  - For **UC Davis undergrads** there is a [google doc](https://docs.google.com/spreadsheets/d/1MHCjRO2b5UuEVCsVbjdYFLEaBaaQWgfGkgpIbLKZCGA/edit#gid=1321035399) that has undergraduate research/field work opportunities to work with graduate students on a wide range of projects (wildlife, entomology, soil science, agriculture, etc)
 
 - [Research Experiences for Undergraduates](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5047) : this program funded by the National Science Foundation provides fully funded, amazing opportunities to work with scientists and conduct research in the summer months. 
 
@@ -26,6 +26,7 @@ I thought I would share some information about obtaining research experience, gr
 - If you've recieved a Federal Pell Grant from the U.S Government, you could be eligible for the [Bejamin A. Gilman International Scholarship](https://www.gilmanscholarship.org/program/eligibility/), which financially supports undergraduates at 4 and 2 year colleges to study abroad. I've seen some students incorporate wildlife research internships into their study abroad experience (this [student](https://www.gilmanscholarship.org/2019/02/18/gilman-scholars-independent-study-in-madagascar/) did an wildlife internship in Madagascar)
 
 - Here's a [list of organizations and job boards](https://www.jennie-miller.com/uploads/5/8/7/0/5870991/conservation_career_resources.pdf) compiled by Dr. Jennie Miller (Defenders of Wildlife) that also might be useful. 
+
 ### Grants for Wildlife Research 
 
 Here's a list of a few grants and fellowship opportunities 
@@ -48,9 +49,17 @@ Here's a list of a few grants and fellowship opportunities
 
 - **for scholars based not in USA:** [IDEA WILD](http://www.ideawild.org/) is a great NGO that aims to empower conservationists by awarding equipment grants for projects focused on research, conservation education, field training, etc. For example, IDEA WILD provides equipment such as camera traps, spotting scopes, tents, binoculars, GPS units to conservation projects worldwide. 
 
+### RESOURCES FOR WRITING SCIENCE 
+
+I came across this book during graduate school and it was very helpful for learning the art of clear and effective writing:
+
+"Writing Science: How to write papers that get cited and proposals that get funded" by Joshua Schimel.  
+
+
+
 ### APPLYING TO GRADUATE SCHOOL
 
-The process of applying to an Ecology/Evolution/Conservation graduate program in the U.S.A can be a bit confusing. The process is not as straight foward as just writing applications and taking the GRE. 
+The process of applying to an Ecology/Evolution/Conservation graduate program in the U.S.A can be a bit confusing. Although the application date is usually in the winter, the process of contacting potential professors and graduate programs starts much earlier.  
 
 The advice from [Dr. Jennie Miller](https://www.jennie-miller.com/) provides a great overview on the application process and is tailored for **international students** that may not be familar with the typical procedures of applying to U.S. schools. You can find the pdf [here](http://www.jennie-miller.com/uploads/5/8/7/0/5870991/jennies_tips_on_how_to_apply_to_grad_school.pdf). 
 
