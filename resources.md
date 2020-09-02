@@ -57,8 +57,6 @@ I came across this book during graduate school and it was very helpful for learn
 
 The entire book is also freely available as a pdf here: http://dust.ess.uci.edu/ppr/ppr_Sch12.pdf
 
-
-
 ### APPLYING TO GRADUATE SCHOOL
 
 The process of applying to an Ecology/Evolution/Conservation graduate program in the U.S.A can be a bit confusing. Although the application date is usually in the winter, the process of contacting potential professors and graduate programs starts much earlier.  
