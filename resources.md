@@ -4,7 +4,7 @@ bigimg:
   - "/img/truck.png" : "Painted Truck, Gilgit-Baltistan, Pakistan. 2018"
 --- 
 
-I thought I would share some information about obtaining research experience, grants, writing sceince, and graduate school tips that might be helpful below:
+I thought I would share some information about obtaining research experience, grants, writing science, and graduate school tips that might be helpful below:
 
 ### Getting experience in the research
 
