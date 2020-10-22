@@ -21,7 +21,7 @@ iridica in hooved mammals. *Veterinary Ophthalmology* 1-8. [Link](https://online
 **4.)** Sadhukhan S, **LM Hennelly**, B Habib. 2019. Characterising the harmonic vocal
 repertoire of the Indian wolf (*Canis lupus pallipes*). *PloS One* 14(10): e0216186 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216186)
 
-  - *Research covered in the newspaper* [Hindustan Times](https://www.hindustantimes.com/mumbai-news/scientists-categorise-indian-wolf-sounds-to-study-animal-s-social-behaviour/story-oGRNnqzCpn25b1FniMfgfM.html?fbclid=IwAR2hpOpuoyf76sa4TzOGxZ2PktmfkNwnVK-C5vi6GbPCV9pJtjV6CnMJQeQ) 
+  - *Research covered in the newspaper:* [Hindustan Times](https://www.hindustantimes.com/mumbai-news/scientists-categorise-indian-wolf-sounds-to-study-animal-s-social-behaviour/story-oGRNnqzCpn25b1FniMfgfM.html?fbclid=IwAR2hpOpuoyf76sa4TzOGxZ2PktmfkNwnVK-C5vi6GbPCV9pJtjV6CnMJQeQ) 
 
 **3.)** Hamid A, T Mahmood, H Fatima, **LM Hennelly**, R Akrim, A Hussain, M
 Waseem. 2019. Origin, ecology, and human conflict of grey wolf (*Canis lupus*) in
@@ -33,7 +33,7 @@ clades: tracing divergence in the world’s oldest wolf lineages using acoustics
 *Current Zoology* 63(3): 341-348. [Link](https://academic.oup.com/cz/article/63/3/341/3002317)
 
   - *Research covered in* [LiveMint magazine](https://www.livemint.com/Leisure/PMYYorrIf6kFNmuHDQwGMO/Calling-on-the-wolf.html) 
-  - *Research covered in* [Pune Mirror](https://punemirror.indiatimes.com/pune/others/howling-survey-to-aid-state-wolf-conservation/articleshow/49173834.cms)
+  - *Research covered in then newspaper:* [Pune Mirror](https://punemirror.indiatimes.com/pune/others/howling-survey-to-aid-state-wolf-conservation/articleshow/49173834.cms)
   
 **1.)** **Hennelly LM**, B Habib, and S Lyngdoh. 2015. Himalayan wolf and feral dog
 displaying mating behavior from Spiti Valley, India and potential conservation
