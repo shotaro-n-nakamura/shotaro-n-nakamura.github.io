@@ -4,7 +4,7 @@ bigimg:
   - "/img/truck.png" : "Painted Truck, Gilgit-Baltistan, Pakistan. 2018"
 --- 
 
-I thought I would share some information about obtaining research experience, grants, writing science, and graduate school tips that might be helpful below:
+I thought I would share some information about obtaining research experience, grants, writing science, and graduate school tips that might be helpful below.
 
 ### Getting experience in the research
 
@@ -28,7 +28,7 @@ I thought I would share some information about obtaining research experience, gr
 
 - Here's a [list of organizations and job boards](https://www.jennie-miller.com/uploads/5/8/7/0/5870991/conservation_career_resources.pdf) compiled by Dr. Jennie Miller (Defenders of Wildlife) that also might be useful. 
 
-### Grants for Wildlife Research 
+### GRANTS FOR WILDLIFE RESEARCH  
 
 Here's a list of a few grants and fellowship opportunities 
 
