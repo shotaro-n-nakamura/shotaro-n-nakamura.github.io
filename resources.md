@@ -21,7 +21,8 @@ I thought I would share some information about obtaining research experience, gr
   - Opportunities at the [National Museum of Natural History](https://www.smithsonianofi.com/internship-opportunities/) in Washington DC
   - Opportunities at the [Field Musuem of Natural History Museum](https://www.fieldmuseum.org/about/careers/internships) in Chicago
   - Summer Systematics Institute Internship at the [California Academy of Sciences](https://www.calacademy.org/summer-systematics-institute)
-  
+
+- The San Diego Zoo Institute for Conservation Researh offers **paid** 12-week [Summer College Student Fellowships](https://zoo.sandiegozoo.org/jobs/internships) in various areas of research. The Institute has different divisions that include Applied Animal Ecology, Applied Plant Ecology, Behavioral Ecology, Conservation Education, Genetics, Reproductive Physiology, and Wildlife Diseases Laboratories.
 
 - If you've recieved a Federal Pell Grant from the U.S Government, you could be eligible for the [Bejamin A. Gilman International Scholarship](https://www.gilmanscholarship.org/program/eligibility/), which financially supports undergraduates at 4 and 2 year colleges to study abroad. I've seen some students incorporate wildlife research internships into their study abroad experience (this [student](https://www.gilmanscholarship.org/2019/02/18/gilman-scholars-independent-study-in-madagascar/) did an wildlife internship in Madagascar)
 
