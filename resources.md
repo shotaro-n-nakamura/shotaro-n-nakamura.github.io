@@ -47,6 +47,8 @@ Here's a list of a few grants and fellowship opportunities
 - The [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/) offers various grants and fellowships to women's graduate education. 
    - **For women scholars based not in the USA**: The AAUW has [International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/) for both graduate and postgraduate education in the United States for women scholars who are not US citizens or permanent residents. 
    
+- The [Schlumberger Foundation Faculty for the Future Program](https://www.fftf.slb.com/) provdies fellowships to women from developing countries who are completing a PhD or postdoctoral program. 
+   
 - **for scholars based not in USA:** [SCGIS International Scholarship Program](https://www.scgis.org/content/training/international-scholarship-program) is designed to allow conservation GIS practitioners to attend the Esri User Conference and SCGIS Annual Conference in California, as well as allow them to take specialized three-week GIS courses at University of California, Davis!
 
 - **for scholars based not in USA:** [Conservation Leadership Programme](http://www.conservationleadershipprogramme.org/): this organization supports early career conservationists with project funding, as well as training and network opportunities. 
