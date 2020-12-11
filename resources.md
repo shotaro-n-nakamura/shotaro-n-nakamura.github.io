@@ -30,7 +30,7 @@ I thought I would share some information about obtaining research experience, gr
 
 ### GRANTS AND FELLOWSHIPS FOR WILDLIFE RESEARCH  
 
-Here's a list of a few grants and fellowship opportunities 
+Here's a list of a few grants and fellowship opportunities:
 
 - [The Fulbright Program](https://us.fulbrightonline.org/) offers fellowships for U.S based individuals to conduct research abroad **AND** individuals based in other countries to conduct research in the United States. The mission of the Fulbright program is to foster mutual understanding among nations and share knowledge across communities through educational and cultural exchange.
 
@@ -73,6 +73,8 @@ The advice from [Dr. Jennie Miller](https://www.jennie-miller.com/) provides a g
 Dr. Anusha Shankar also provides [tips](http://anushashankar.weebly.com/grad-school-advice.html) on applying to graduate school. 
 
 The Brashares Group at University of California-Berkeley also offers [advice](https://nature.berkeley.edu/BrasharesGroup/advice/) for applying to a graduate program in ecology/evolution/conservation.  
+
+Feel free to reach out to me (lmhennelly@ucdavis.edu) if you have questions about applying to graduate school. I'm happy to answer any questions. 
 
 
 
