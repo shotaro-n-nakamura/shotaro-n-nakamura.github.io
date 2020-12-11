@@ -63,7 +63,7 @@ I came across this book during graduate school and it was very helpful for learn
 
 "Writing Science: How to write papers that get cited and proposals that get funded" by Joshua Schimel. 
 
-The entire book is also freely available as a pdf here: http://dust.ess.uci.edu/ppr/ppr_Sch12.pdf
+The entire book is also freely available as a pdf [here](http://dust.ess.uci.edu/ppr/ppr_Sch12.pdf)
 
 ### APPLYING TO GRADUATE SCHOOL
 
