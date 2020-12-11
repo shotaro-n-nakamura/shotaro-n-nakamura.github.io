@@ -28,7 +28,7 @@ I thought I would share some information about obtaining research experience, gr
 
 - Here's a [list of organizations and job boards](https://www.jennie-miller.com/uploads/5/8/7/0/5870991/conservation_career_resources.pdf) compiled by Dr. Jennie Miller (Defenders of Wildlife) that also might be useful. 
 
-### GRANTS FOR WILDLIFE RESEARCH  
+### GRANTS AND FELLOWSHIPS FOR WILDLIFE RESEARCH  
 
 Here's a list of a few grants and fellowship opportunities 
 
@@ -44,11 +44,15 @@ Here's a list of a few grants and fellowship opportunities
 
 - [The Alongside Wildlife Foundation](https://alongsidewildlifefoundation.org/): This NGO helps fund projects that are important yet typically overlooked by most funding agencies and organizations. Some of these often overlooked areas include projects that generate basic but fundamental information about species and projects involving science communciation. 
 
+- The [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/) offers various grants and fellowships to women's graduate education. 
+   - **For women scholars based not in the USA**: The AAUW has [International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/) for both graduate and postgraduate education in the United States for women scholars who are not US citizens or permanent residents. 
+   
 - **for scholars based not in USA:** [SCGIS International Scholarship Program](https://www.scgis.org/content/training/international-scholarship-program) is designed to allow conservation GIS practitioners to attend the Esri User Conference and SCGIS Annual Conference in California, as well as allow them to take specialized three-week GIS courses at University of California, Davis!
 
 - **for scholars based not in USA:** [Conservation Leadership Programme](http://www.conservationleadershipprogramme.org/): this organization supports early career conservationists with project funding, as well as training and network opportunities. 
 
 - **for scholars based not in USA:** [IDEA WILD](http://www.ideawild.org/) is a great NGO that aims to empower conservationists by awarding equipment grants for projects focused on research, conservation education, field training, etc. For example, IDEA WILD provides equipment such as camera traps, spotting scopes, tents, binoculars, GPS units to conservation projects worldwide. 
+
 
 ### RESOURCES FOR WRITING SCIENCE 
 
