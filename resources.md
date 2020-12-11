@@ -45,6 +45,7 @@ Here's a list of a few grants and fellowship opportunities:
 - [The Alongside Wildlife Foundation](https://alongsidewildlifefoundation.org/): This NGO helps fund projects that are important yet typically overlooked by most funding agencies and organizations. Some of these often overlooked areas include projects that generate basic but fundamental information about species and projects involving science communciation. 
 
 - The [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/) offers various grants and fellowships to women's graduate education. 
+
    - **For women scholars based not in the USA**: The AAUW has [International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/) for both graduate and postgraduate education in the United States for women scholars who are not US citizens or permanent residents. 
    
 - The [Schlumberger Foundation Faculty for the Future Program](https://www.fftf.slb.com/) provdies fellowships to women from developing countries who are completing a PhD or postdoctoral program. 
@@ -74,7 +75,7 @@ Dr. Anusha Shankar also provides [tips](http://anushashankar.weebly.com/grad-sch
 
 The Brashares Group at University of California-Berkeley also offers [advice](https://nature.berkeley.edu/BrasharesGroup/advice/) for applying to a graduate program in ecology/evolution/conservation.  
 
-Feel free to reach out to me (lmhennelly@ucdavis.edu) if you have questions about applying to graduate school. I'm happy to answer any questions. 
+Feel free to reach out to me (lmhennelly@ucdavis.edu) if you have questions about applying to graduate school -- I'm happy to answer any questions. 
 
 
 
