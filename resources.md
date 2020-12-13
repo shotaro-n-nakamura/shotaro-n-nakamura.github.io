@@ -6,7 +6,7 @@ bigimg:
 
 I thought I would share some information about obtaining research experience, grants, writing science, and graduate school tips that might be helpful below.
 
-### Getting experience in the research
+### GETTING RESEARCH EXPERIENCE
 
 - At many universities and colleges, professors that teach classes often have a research lab full of graduate students and other scientists. These labs sometimes have opportunities for undergraduates to get involved with research. If you find a certain professor or graduate student's research interesting and would like to get involved, you could consider emailing them to see if there are any research opportunities in their lab.   
 
