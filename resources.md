@@ -46,11 +46,11 @@ Here's a list of a few grants and fellowship opportunities:
 
 - The [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/) offers various grants and fellowships to women's graduate education. 
 
-   - **For women scholars based not in the USA**: The AAUW has [International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/) for both graduate and postgraduate education in the United States for women scholars who are not US citizens or permanent residents. 
+   - **For women scholars based not in the USA:** The AAUW has [International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/) for both graduate and postgraduate education in the United States for women scholars who are not US citizens or permanent residents. 
    
-- **For women scholars based not in the USA** The [Schlumberger Foundation Faculty for the Future Program](https://www.fftf.slb.com/) provdies fellowships to women from developing countries who are completing a PhD or postdoctoral program. 
+- **For women scholars based not in the USA:** The [Schlumberger Foundation Faculty for the Future Program](https://www.fftf.slb.com/) provdies fellowships to women from developing countries who are completing a PhD or postdoctoral program. 
 
-- **For women scholars based not in the USA** The [P.E.O International Peace Scholarship](https://www.peointernational.org/about-peo-international-peace-scholarship-ips) provides funds up to $12,500 to women from other countries for graduate study in the United States or Canada. 
+- **For women scholars based not in the USA:** The [P.E.O International Peace Scholarship](https://www.peointernational.org/about-peo-international-peace-scholarship-ips) provides funds up to $12,500 to women from other countries for graduate study in the United States or Canada. 
 
 - **for scholars based not in USA:** The [Wildlife Conservation Network Scholarship Program](https://wildnet.org/protecting-wildlife/scholarships/) provides funding to nurture emerging young conservationists from Africa, Asia, Eastern Europe, and Latin America that are committed to working on wildlife conservation in their home countries. If you are an interested applicant, the WCN required you to email scholarship@wildnet.org for more information. They also state that you must be nominated by a pre-approved.eligible nominator, and the call for nominations opens in October of every year. 
 
