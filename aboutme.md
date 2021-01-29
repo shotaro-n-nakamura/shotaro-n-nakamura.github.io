@@ -7,9 +7,9 @@ bigimg:
 
 My name is Lauren Hennelly and I'm a Ph.D Candidate in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu/) at the University of California, Davis.
 
-I'm broadly interested in studying the processes that influence patterns in genomic variation across populations and between species. I also have a strong interest in studying the behavior, ecology and evolution of mammals. Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
+As an evolutionary biologist, I use population genomic data to study the evolution and ecology of various species, with a focus on mammals. Much of my research is centered on understanding the evoltuionary processes that impact genomic variation across populations and between species. I also have a strong interest in studying how behavior varies across different populations. Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
 
-My current thesis research is broadly on using genomics to study the evolutionary history of wolf-like canids in Asia. For this, I use whole genome sequence data to investigate patterns of divergence, demographic history, and gene flow across wolf populations in Asia. 
+My current thesis research is broadly on using whole genome data to study the evolutionary history of gray wolves. For this, I use various field-based, genomic, and computational methods as well as collaborate with a wide reange of researchers to answer questions on gray wolves. With newly sequenced gray wolf genomes, we are investigating patterns of divergence, demographic history, and gene flow across wolf populations in Asia. 
 
 - A strong component of this research is focused on **gray wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India.
 
