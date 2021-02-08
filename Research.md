@@ -22,6 +22,7 @@ My Ph.D thesis focuses on using genomics to further our knowledge on the evoluti
 Genealogical relationships among recently diverged lineages are often complex, involving discordance among different regions of the genome. Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles of recently diverged lineages is particularly challenging. For understanding gray wolf evolutionary history, I have ultilized emerging methods to help characterize the evolution of recently diverged, yet interfertile lineages. This has involved leavaging our understanding of how phylogeny and gene flow leave distinct signatures on genomes, as well as how their distribution is influenced by recombination, to investigate historical relationships among gray wolves. This research work is currently in review at *Molecular Ecology*. 
 
 ![me](/img/Topologyweight4.png)
+
 Figure 2. Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome.
 
 
