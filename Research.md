@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/Topologyweights.png" : "Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome"
+  - "/img/Topologyweights2.png" : "Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome"
 --- 
 
 **Research**
