@@ -16,14 +16,27 @@ My Ph.D thesis focuses on using genomics to further our knowledge on the evoluti
 **Figure 1. Distribution and taxonomy of gray wolves in Eurasia.** The distribution of each currently recognized gray wolf subspecies in Eurasia (Castello 2018, Alvarez et al. 2019). Wavy lines indicate the distribution of evolutionarily distinct populations within the Indian wolf (*Canis lupus pallipes*) and Tibetan wolf (*Canis lupus chanco*) based on mitochondrial analyses (<sup>1</sup>Sharma et al. 2004, <sup>2</sup>Aggarwal et al. 2007, <sup>3</sup>Esrmark et al. 2016, <sup>4</sup>Werhahn et al. 2020). 
 
 
+
 **GENOMES, PHYLOGENETICS AND HYBRIDIZATION** 
 
-More broadly, gray wolves in Asia provide a system to study the processes influencing whether and how lineage boundaries between highly mobile, yet genomically distinct populations are maintained. However, deciphering th evolutionary history of distinctive, yet interfertile lineages is particularly challenging. Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles (incomplete lineage sorting) of recently diverged lineages is particularly challenging. 
+Genealogical relationships among recently diverged lineages are often complex, involving discordance among different regions of the genome. Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles of recently diverged lineages is particularly challenging. For understanding gray wolf evolutionary history, I have ultiized emerging methods to help characterize the evolution of recently diverged, yet interfertile lineages. This has involved leavaging our understanding of how phylogeny and gene flow leave distinct signatures on genomes, as well as how their distribution is influenced by recombination, to investigate historical relationships among gray wolves. 
+
+![me](/img/Topologyweight2.png)
+Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome.
+
+
+**DYNAMICS OF GENE FLOW AND SELECTION AT A CONTACT ZONE** 
+
+
+
+ This discordance can arise from stocha Deciphering the evolutionary history of distinctive, yet interfertile lineages is particularly challenging. The genealogical relationships among recently diverged lineages often have discordance across different regions of the genome. Emerg
+ 
 
 
 ![me](/img/Topologyweight3.png)
 Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome.
 
+More broadly, gray wolves in Asia provide a system to study the processes influencing whether and how lineage boundaries between highly mobile, yet genomically distinct populations are maintained. However, 
 
 
 More broadly, gray wolves in Asia provide a system to study the processes influencing whether and how lineage boundaries between highly mobile, yet genomically distinct populations are maintained. However, deciphering th evolutionary history of distinctive, yet interfertile lineages is particularly challenging. Emerging Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles (incomplete lineage sorting) of recently diverged lineages is particularly challenging. 
