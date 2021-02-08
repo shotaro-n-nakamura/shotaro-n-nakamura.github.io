@@ -10,12 +10,9 @@ My research revolves around understanding the evolutionary processes that shape 
 
 **Gray wolves of South and Central Asia**
 
-My Ph.D thesis focuses on using genomics to further our knowledge on the evolutionary history of gray wolves in Asia. Gray wolves are comprised of three major mitochondrial lineages. Most gray wolves occuring from Europe to North America share recent (<100kya) maternal origins, and correspond to a Holarctic clade. The Tibetan and Indian mitochondrial lineages are deeply divergent (200,000 - 700,000 years ago) and geographicallly restricted, respectively, to the Indian subcontinent and the Tibetan plateau. This far, no genome-wide analyses have included wolves corresponding to the mitochondrial Indian clade, and therefore it is unknown whether these wolves are genomically distinct. In 2003, Indian wolves were thought to unumber around 2,000 to 3,000 individuals in india and an unknown number of individuals in a declining population in Pakistan. Therefore, this genomic work has significant conservation implications for conserving the remaining Indian wolf populations.
+My Ph.D thesis focuses on using genomics to further our knowledge on the evolutionary history of gray wolves in Asia. Gray wolves are comprised of three major mitochondrial lineages. Most gray wolves occuring from Europe to North America share recent (<100kya) maternal origins, and correspond to a Holarctic clade. The Tibetan and Indian mitochondrial lineages are deeply divergent (200-700kya) and geographicallly restricted, respectively, to the Indian subcontinent and the Tibetan plateau. This far, no genome-wide analyses have included wolves corresponding to the mitochondrial Indian clade, and therefore it is unknown whether these wolves are genomically distinct. In 2003, Indian wolves were thought to number around 2,000 to 3,000 individuals in india and an unknown number of individuals in a declining population in Pakistan. Therefore, this genomic work has significant conservation implications for conserving the remaining Indian wolf populations. Building from my collaborations from my Fulbright in India, I have been collaborating with the Wildlife Institute of India for the last 7 years to study the genomic distinctiveness and evolutionary history of wolves in India. 
 
-Building from my collaborations from my Fulbright in India, I have been collaborating with the Wildlife Institute of India for the last 7 years. With this, we sequenced the genomes of Indian and Tibetan wolves, where we 
-
-
- In particular, I am interested in the processes influencing whether and how lineage boundaries between highly mobile, yet genomically dinstinct populations are maintained. 
+More broadly, gray wolves in Asia In particular, I am interested in the processes influencing whether and how lineage boundaries between highly mobile, yet genomically dinstinct populations are maintained. 
  
 
 
