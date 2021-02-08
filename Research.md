@@ -16,6 +16,9 @@ My Ph.D thesis focuses on using genomics to further our knowledge on the evoluti
 **Figure 1. Distribution and taxonomy of gray wolves in Eurasia.** The distribution of each currently recognized gray wolf subspecies in Eurasia (Castello 2018, Alvarez et al. 2019). Wavy lines indicate the distribution of evolutionarily distinct populations within the Indian wolf (*Canis lupus pallipes*) and Tibetan wolf (*Canis lupus chanco*) based on mitochondrial analyses (<sup>1</sup>Sharma et al. 2004, <sup>2</sup>Aggarwal et al. 2007, <sup>3</sup>Esrmark et al. 2016, <sup>4</sup>Werhahn et al. 2020). 
 
 
+**GENOMES, PHYLOGENETICS AND HYBRIDIZATION** 
+
+More broadly, gray wolves in Asia provide a system to study the processes influencing whether and how lineage boundaries between highly mobile, yet genomically distinct populations are maintained. However, deciphering th evolutionary history of distinctive, yet interfertile lineages is particularly challenging. Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles (incomplete lineage sorting) of recently diverged lineages is particularly challenging. 
 
 
 ![me](/img/Topologyweight3.png)
