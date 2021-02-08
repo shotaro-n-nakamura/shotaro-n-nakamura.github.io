@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/Topologyweight3.png" : "Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome"
+  - "/img/Ladakh Roads.png" : "Ladakh, India. 2017."
 --- 
 
 My research revolves around understanding the evolutionary processes that shape genomic diversity of species and between their populations. For this, I use genomic tools, computational methods, and collaborate with a wide range of researchers to answer questions on the evolution and ecology of species, focused on mammals. I am invested in ensuring that the scientific knowledge generated from this research is applied to conservation. 
@@ -19,7 +19,7 @@ More broadly, gray wolves in Asia provide a system to study the processes influe
 genealogical relationship among recently diverged lineages are
  
 
-
+Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome
 
 
 ,  of species   and between populations. evolutionary processes that shape regional species diversity  and    New statistical methods to disentangle gene flow from the species tree. For my research, I used rates of recombination to aid in distinguishing between introgression, incomplete lineage sorting, and the original species branching pattern. 
