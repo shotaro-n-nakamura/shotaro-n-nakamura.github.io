@@ -1,14 +1,14 @@
 ---
 layout: page
 bigimg:
-  - "/img/Topologyweight2.png" : "Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome"
+  - "/img/Topologyweight3.png" : "Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome"
 --- 
-
-**Research**
 
 My research revolves around understanding the evolutionary processes that shape genomic diversity of species and between their populations. For this, I use genomic tools, computational methods, and collaborate with a wide range of researchers to answer questions on the evolution and ecology of species, focused on mammals. I am invested in ensuring that the scientific knowledge generated from this research is applied to conservation. 
 
 ![me](/img/subspeciesmap.png)
+
+
 
 **Gray wolves of South and Central Asia**
 
