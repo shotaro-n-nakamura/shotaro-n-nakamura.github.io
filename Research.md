@@ -19,40 +19,15 @@ My Ph.D thesis focuses on using genomics to further our knowledge on the evoluti
 
 **GENOMES, PHYLOGENETICS AND HYBRIDIZATION** 
 
-Genealogical relationships among recently diverged lineages are often complex, involving discordance among different regions of the genome. Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles of recently diverged lineages is particularly challenging. For understanding gray wolf evolutionary history, I have ultiized emerging methods to help characterize the evolution of recently diverged, yet interfertile lineages. This has involved leavaging our understanding of how phylogeny and gene flow leave distinct signatures on genomes, as well as how their distribution is influenced by recombination, to investigate historical relationships among gray wolves. 
+Genealogical relationships among recently diverged lineages are often complex, involving discordance among different regions of the genome. Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles of recently diverged lineages is particularly challenging. For understanding gray wolf evolutionary history, I have ultilized emerging methods to help characterize the evolution of recently diverged, yet interfertile lineages. This has involved leavaging our understanding of how phylogeny and gene flow leave distinct signatures on genomes, as well as how their distribution is influenced by recombination, to investigate historical relationships among gray wolves. This research work is currently in review at *Molecular Ecology*. 
 
 ![me](/img/Topologyweight2.png)
-Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome.
+Figure 2. Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome.
 
 
-**DYNAMICS OF GENE FLOW AND SELECTION AT A CONTACT ZONE** 
+**DYNAMICS OF GENE FLOW AND SELECTION AT CONTACT ZONES IN PAKISTAN** 
 
-
-
- This discordance can arise from stocha Deciphering the evolutionary history of distinctive, yet interfertile lineages is particularly challenging. The genealogical relationships among recently diverged lineages often have discordance across different regions of the genome. Emerg
- 
-
-
-![me](/img/Topologyweight3.png)
-Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome.
-
-More broadly, gray wolves in Asia provide a system to study the processes influencing whether and how lineage boundaries between highly mobile, yet genomically distinct populations are maintained. However, 
-
-
-More broadly, gray wolves in Asia provide a system to study the processes influencing whether and how lineage boundaries between highly mobile, yet genomically distinct populations are maintained. However, deciphering th evolutionary history of distinctive, yet interfertile lineages is particularly challenging. Emerging Disentangling signals of the historical branching pattern, gene flow between lineages, and stochastic assorting of ancestral alleles (incomplete lineage sorting) of recently diverged lineages is particularly challenging. 
-
-genealogical relationship among recently diverged lineages are
- 
-
-Topology weights for three possible topologies of Indian, Tibetan, and Holarctic lineages with Dhole as an outgroup across the X chromosome
-
-
-,  of species   and between populations. evolutionary processes that shape regional species diversity  and    New statistical methods to disentangle gene flow from the species tree. For my research, I used rates of recombination to aid in distinguishing between introgression, incomplete lineage sorting, and the original species branching pattern. 
-
-
-
-
-
+More broadly, gray wolves in Asia provide a system to study the processes influencing whether and how lineage boundaries between highly mobile, yet genomically distinct populations are maintained. Based on preliminary and published mitochondrial data, the appearance of a relatively sharp contact zone between Tibetan, Indian, and Holarctic lineages is located in Pakistan and northern India (Figure 3). Whether these mitochondrial boundaries align with abrupt nuclear genomic boundaries or if widespread gene flow is occurring between wolf lineages across this mitochondrial contact zone is unknown. Over the last three years, I've been working with collaborators from NGOs and universities in Pakistan to understand wolf distribution and evolutionary history. Gray wolves are especially rare and endangered in Pakistan, and this research will provide key information for delineating populations for conservation effort. Additionally, Pakistan is centered within prominent contact zones for other mammal species, and this study will yield fundamental insights into processes that have shaped regional species diversity at this biogeographic junction of West, South, and Central Asia.
 
 
 
