@@ -7,7 +7,8 @@ bigimg:
 My research revolves around understanding the evolutionary processes that shape genomic diversity of species and between their populations. For this, I use genomic tools, computational methods, and collaborate with a wide range of researchers to answer questions on the evolution and ecology of species, focused on mammals. I am invested in ensuring that the scientific knowledge generated from this research is applied to conservation. 
 
 ![me](/img/subspeciesmap.png)
-Distribution and taxonomy of gray wolves in Eurasia. The distribution of each currently recognized gray wolf subspecies in Eurasia (Castello 2018, Alvarez et al. 2019). Wavy lines indicate the distribution of evolutionarily distinct populations within the Indian wolf (Canis lupus pallipes) and Tibetan wolf (Canis lupus chanco) based on mitochondrial analyses (Sharma et al. 2004, Aggarwal et al. 2007, Esrmark et al. 2016, Werhahn et al. 2020). 
+
+**Distribution and taxonomy of gray wolves in Eurasia.** The distribution of each currently recognized gray wolf subspecies in Eurasia (Castello 2018, Alvarez et al. 2019). Wavy lines indicate the distribution of evolutionarily distinct populations within the Indian wolf (*Canis lupus pallipes*) and Tibetan wolf (*Canis lupus chanco*) based on mitochondrial analyses (<sup>1</sup>Sharma et al. 2004, <sup>2</sup>Aggarwal et al. 2007, <sup>3</sup>Esrmark et al. 2016, <sup>4</sup>Werhahn et al. 2020). 
 
 **Gray wolves of South and Central Asia**
 
