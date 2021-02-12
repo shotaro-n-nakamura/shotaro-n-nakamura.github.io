@@ -10,8 +10,6 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
-**6.)** Rafaqat I, T Mahmood, **LM Hennelly**, F Akrim, IU Zaman, H Fatima, MR Khan, M Arif. *In review*. Diet composition of red fox (*Vulpes vulpes*) inhabiting Ayubia National Park, Pakistan. *Wildlife Biology*
-
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
 iridica in hooved mammals. *Veterinary Ophthalmology* 1-8. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/vop.12742)
@@ -23,7 +21,7 @@ repertoire of the Indian wolf (*Canis lupus pallipes*). *PloS One* 14(10): e0216
 
 **3.)** Hamid A, T Mahmood, H Fatima, **LM Hennelly**, R Akrim, A Hussain, M
 Waseem. 2019. Origin, ecology, and human conflict of grey wolf (*Canis lupus*) in
-Suleiman Range, South Waziristan, Pakistan. *Mammalia* 83(6): 539-331. [Link](https://www.degruyter.com/view/j/mamm.ahead-of-print/mammalia-2018-0167/mammalia-2018-0167.xml)
+Suleiman Range, South Waziristan, Pakistan. *Mammalia* 83(6): 539-551. [Link](https://www.degruyter.com/view/j/mamm.ahead-of-print/mammalia-2018-0167/mammalia-2018-0167.xml)
 
 **2.)** **Hennelly LM**, B Habib, H Root-Gutteridge, V Palacios, D Passilongo. 2017.
 Howl variation across Himalayan, North African, Indian and Holarctic wolf
