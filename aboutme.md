@@ -14,7 +14,7 @@ My current thesis research is broadly on using whole genome data to study the ev
 - A strong component of this research is focused on **gray wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India.
 
 <center>
-<img src="/img/wolfgenetics.png" length="350" width="350">
+<img src="/img/wolfgenetics.png" length="400" width="400">
 <center>
   
 <p style="text-align:left"> 
