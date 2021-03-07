@@ -14,7 +14,7 @@ My current thesis research is broadly on using whole genome data to study the ev
 - A strong component of this research is focused on **gray wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India.
 
 <center>
-<img src="/img/wolfgenetics.png" length="350" width="450">
+<img src="/img/wolfgenetics.png" length="350" width="350">
 <center>
   
 Originally from Illinois, I obtained my B.S. in Evolutionary Biology at the University of Wisconsin-Madison. After graduating, I worked various field positions in the Indian Himalaya, Australia, and New Zealand. In 2014, I became a [Fulbright](https://us.fulbrightonline.org/) scholar affiliated with the [Wildlife Institute of India](http://www.wii.gov.in) to studying Himalayan and Indian wolf behavior. 
