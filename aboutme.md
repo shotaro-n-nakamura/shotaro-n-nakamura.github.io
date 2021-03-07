@@ -9,6 +9,8 @@ My name is Lauren Hennelly and I'm a Ph.D Candidate in the [Mammalian Ecology an
 
 I use genomic data to study the evolution and ecology of various species, with a focus on mammals. Much of my research is centered on understanding the evolutionary processes that impact genomic variation across populations and between species. I also have a strong interest in studying how behavior varies across different populations. Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
 
+![wolf](/img/wolfgenetics.png)
+
 My current thesis research is broadly on using whole genome data to study the evolutionary history of gray wolves. For this, I use various field-based, genomic, and computational methods as well as collaborate with a wide range of researchers to answer questions on gray wolves. With newly sequenced gray wolf genomes, we are investigating patterns of divergence, demographic history, and gene flow across wolf populations in Asia. 
 
 - A strong component of this research is focused on **gray wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India.
