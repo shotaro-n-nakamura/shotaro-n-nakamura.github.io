@@ -23,8 +23,8 @@ Before starting my Ph.D at University of California, Davis, I was a research tec
  <img src="/img/Screen Shot 2019-04-20 at 5.39.38 PM.png" width="400" height="500">
 <center>
   
-  <center>
- <img src="/img/wolfgenetics.png" width="400" height="500">
+ <center>
+ <img src="/img/wolfgenetics.png">
 <center>
   
 
