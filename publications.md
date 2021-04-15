@@ -10,8 +10,6 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
-**6.)** **LM Hennelly**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. *In review*. Ancient divergence of Indian and Tibetan wolves revealed by low-recombination regions of the genome. *Molecular Ecology*
-
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
 iridica in hooved mammals. *Veterinary Ophthalmology* 1-8. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/vop.12742)
