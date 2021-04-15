@@ -47,7 +47,7 @@ Conservation Trust’s *Wolf Print Magazine*. March 2018 Issue, pages 26-28 [Lin
 Conservation Trust’s *Wolf Print Magazine* (reprint from International Wolf
 Magazine). Summer 2017 issue.
 
-**Hennelly LM**. 2015. Hybridisation threat in the Himalaya.
+**Hennelly LM**. 2015. Hybridisation threat in the Himalaya..
 Conservationindia.org. [Link](http://www.conservationindia.org/gallery/wolf-dog-hybridisation-threat-in-the-himalaya)
 
 
