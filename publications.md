@@ -12,7 +12,7 @@ Here's also my [google scholar page](https://scholar.google.com/citations?user=h
 
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
-iridica in hooved mammals. *Veterinary Ophthalmology* 1-8. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/vop.12742)
+iridica in hooved mammals. *Veterinary Ophthalmology* 1-8. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/vop.12742).
 
 **4.)** Sadhukhan S, **LM Hennelly**, B Habib. 2019. Characterising the harmonic vocal
 repertoire of the Indian wolf (*Canis lupus pallipes*). *PloS One* 14(10): e0216186 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216186)
