@@ -10,6 +10,10 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
+**7.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. Accepted. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology*
+
+**6.)** Fatima H, T Mahmood, **LM Hennelly**, M Farooq, F Akrim, MS Nadeem. 2021. Spatial distribution and dietary niche breadth of Leopard cat (*Prionailurus bengalensis*) inhabiting Margalla Hills National Park, Pakistan. *Zoological Studies*. [Early view](http://zoolstud.sinica.edu.tw/Journals/60/60-0ff.pdf)
+
 **5.)** Weyna A, RR Dubielzig, **LM Hennelly**. 2020. The relative importance of
 phylogeny and habitat in determining the presence and prominence of a granula
 iridica in hooved mammals. *Veterinary Ophthalmology* 1-8. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/vop.12742).
