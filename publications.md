@@ -10,7 +10,7 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
-**8.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. Accepted. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* 
+**8.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. In review. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* 
 
 **7.)** Sacks BN, KJ Mitchell, CB Quinn, **LM Hennelly**, MHS Sinding, MJ Statham, S Preckler-Quisquater, SR Fain, L Kistler, SL Vanderzwan, JA Meachen, EA Ostrander, LAF Frantz. Accepted. Pleistocene origins, western ghost lineages, and the emerging phylogeographic history of the red wolf and coyote. *Molecular Ecology* [Accepted Article](https://onlinelibrary.wiley.com/doi/10.1111/mec.16048)
 
