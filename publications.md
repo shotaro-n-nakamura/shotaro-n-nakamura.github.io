@@ -12,7 +12,7 @@ Here's also my [google scholar page](https://scholar.google.com/citations?user=h
 
 **9.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. In revision. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* 
 
-**8.)** Sarwar G, AM Khan, F Abbas, MT Wasim, **LM Hennelly**. *Accepted*. First record on body morphometrics and chemical immobilization of wolves from Pakistan. *Pakistan Veterinary Journal*
+**8.)** Sarwar G, AM Khan, F Abbas, MT Wasim, **LM Hennelly**. 2021. First record on body morphometrics and chemical immobilization of wolves from Pakistan. *Pakistan Veterinary Journal* [Accepted Article](http://pvj.com.pk/in_press/21-217.pdf)
 
 **7.)** Sacks BN, KJ Mitchell, CB Quinn, **LM Hennelly**, MHS Sinding, MJ Statham, S Preckler-Quisquater, SR Fain, L Kistler, SL Vanderzwan, JA Meachen, EA Ostrander, LAF Frantz. 2021. Pleistocene origins, western ghost lineages, and the emerging phylogeographic history of the red wolf and coyote. *Molecular Ecology* [Link](https://onlinelibrary.wiley.com/doi/10.1111/mec.16048)
 
