@@ -10,7 +10,7 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
-**9.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. In revision. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* 
+**9.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. *In press*. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* 
 
 **8.)** Sarwar G, AM Khan, F Abbas, MT Wasim, **LM Hennelly**. 2021. First record on body morphometrics and chemical immobilization of wolves from Pakistan. *Pakistan Veterinary Journal* [Accepted Article](http://pvj.com.pk/in_press/21-217.pdf)
 
