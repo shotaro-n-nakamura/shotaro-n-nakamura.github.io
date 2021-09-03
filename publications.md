@@ -12,7 +12,7 @@ Here's also my [google scholar page](https://scholar.google.com/citations?user=h
 
 **10.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. *In press*. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* 
 
-  - *Research covered by* [UC Davis](https://www.ucdavis.edu/news/indian-gray-wolf-among-worlds-most-endangered-and-distinct-wolves), [International Business Times](https://www.ibtimes.com/indian-wolf-more-endangered-unique-previously-thought-study-3287256), [IFLScience](https://www.iflscience.com/plants-and-animals/indian-wolf-possibly-the-most-endangered-and-ancient-wolf-lineage-on-earth/), [Earth.com](https://www.earth.com/news/endangered-indian-wolf-is-one-of-the-worlds-most-distinct-species/)
+  - *Research covered by* [UC Davis](https://www.ucdavis.edu/news/indian-gray-wolf-among-worlds-most-endangered-and-distinct-wolves), [International Business Times](https://www.ibtimes.com/indian-wolf-more-endangered-unique-previously-thought-study-3287256), [IFLScience](https://www.iflscience.com/plants-and-animals/indian-wolf-possibly-the-most-endangered-and-ancient-wolf-lineage-on-earth/), [Earth.com](https://www.earth.com/news/endangered-indian-wolf-is-one-of-the-worlds-most-distinct-species/), [Science Daily](https://www.sciencedaily.com/releases/2021/09/210902174647.htm)
   
 
 **9.)** Rafaqat I, T Mahmood, **LM Hennelly**, I Zaman, H Fatima, G Muhammad, Y Abbas, MR Khan M Arif. *Accepted*. Phylogenetic status and diet of red fox (*Vulpes vulpes griffithii*) inhabiting Ayubia National Park, Pakistan. *Brazilian Journal of Biology*
