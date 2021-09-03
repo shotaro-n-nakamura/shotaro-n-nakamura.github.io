@@ -10,7 +10,7 @@ Please reach out to me if you can't access any publications.
 
 Here's also my [google scholar page](https://scholar.google.com/citations?user=hOXHoCIAAAAJ&hl=en)
 
-**10.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. *In press*. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* 
+**10.)** **Hennelly LM**, B Habib, S Modi, EK Rueness, P Gaubert, BN Sacks. *In press*. Ancient divergence of Indian and Tibetan wolves revealed by recombination-aware phylogenomics. *Molecular Ecology* [Link](https://www.researchgate.net/publication/353939288_Ancient_divergence_of_Indian_and_Tibetan_wolves_revealed_by_recombination-aware_phylogenomics?_sg=grBQY4tcYGSIm8UgMTnKNG_Sj9g7TnOmgYfiguVr7qyYsbkPqFDd4y8GkiIa6VuiF6fOV1YxMLbY61QccCTOvMhLxnh65TcXHr-Ecuh-.yH43DYo0F_-egNDCw_TImj42ERZvisOH3j4pNGWOcw8dIwRRa6xe-gji-9nVIKkfXmy5Y-5Neec5EGwMFKcHcQ)
 
   - *Research covered by* [UC Davis](https://www.ucdavis.edu/news/indian-gray-wolf-among-worlds-most-endangered-and-distinct-wolves), [International Business Times](https://www.ibtimes.com/indian-wolf-more-endangered-unique-previously-thought-study-3287256), [IFLScience](https://www.iflscience.com/plants-and-animals/indian-wolf-possibly-the-most-endangered-and-ancient-wolf-lineage-on-earth/), [Earth.com](https://www.earth.com/news/endangered-indian-wolf-is-one-of-the-worlds-most-distinct-species/), [Science Daily](https://www.sciencedaily.com/releases/2021/09/210902174647.htm)
   
