@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 bigimg: 
-- "/img/lahore_skyline.png" : "Lahore, Pakistan. 2019"
+- "/img/lahore_self.jpeg" : "Lahore, Pakistan. 2018"
 ---
 
 My name is Shotaro Nakamura and I'm a Ph.D Candidate in the [Economics Department](https://economics.ucdavis.edu/) at the University of California, Davis.
