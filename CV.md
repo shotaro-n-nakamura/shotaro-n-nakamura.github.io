@@ -1,8 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/DeosaiNP.png" : "Deosai National Park, Gilgit-Baltistan, Pakistan. 2018"
-
+  - "/img/kampala_skyline.jpeg" : "Kampala, Uganda. 2019"
 ---
 
-Here's a recent version of my CV:  [download the PDF here](/img/Lauren Hennelly CV August 2021.pdf).
+Here's a recent version of my CV:  [download the PDF here](/img/cv_shotaro_nakamura_Davis.pdf).
