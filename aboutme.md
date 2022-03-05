@@ -15,5 +15,5 @@ In my job-maket project and beyond, I work closely with leading online platforms
 Before starting my Ph.D at UC Davis, I was a research assistant at the [Marshall Institute](https://www.lse.ac.uk/marshall-institute) at the London School of Economics and Political Science, where I also completed my MSc in Economics. I obtained my bachelor's degree in Economics at Dartmouth College.
 
 <center>
-<img src="/img/lahore_self.jpeg" length="400" width="400">
+<img src="/img/lahore_self.jpeg" length="500" width="500">
 <center>
