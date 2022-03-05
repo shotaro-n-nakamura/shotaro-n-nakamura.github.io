@@ -13,3 +13,7 @@ For my job market project, I study how do agents in developing markets facing in
 In my job-maket project and beyond, I work closely with leading online platforms and technology companies in emerging markets to address questions that both academically novel and business-relevant. If you are a company working on interesting problems in emerging economies, please feel free to reach out to [me](mailto:snnakamura@ucdavis.edu).
 
 Before starting my Ph.D at UC Davis, I was a research assistant at the [Marshall Institute](https://www.lse.ac.uk/marshall-institute) at the London School of Economics and Political Science, where I also completed my MSc in Economics. I obtained my bachelor's degree in Economics at Dartmouth College.
+
+<center>
+<img src="/img/lahore_self.jpeg" length="400" width="400">
+<center>
