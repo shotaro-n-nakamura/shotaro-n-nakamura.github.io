@@ -1,35 +1,17 @@
 ---
 layout: page
-bigimg:
-  - "/img/wolf3.png" : "Maharasthra, India. 2015"
+title: About Me
+bigimg: 
+- "/img/lahore_skyline.png" : "Lahore, Pakistan. 2019"
 ---
-**Hello!**
 
-My name is Lauren Hennelly and I'm a Ph.D Candidate in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu/) at the University of California, Davis.
+My name is Shotaro Nakamura and I'm a Ph.D Candidate in the [Economics Department](https://economics.ucdavis.edu/) at the University of California, Davis.
 
-I use genomic data to study the evolution and ecology of various species, with a focus on mammals. Much of my research is centered on understanding the evolutionary processes that impact genomic variation across populations and between species. I also have a strong interest in studying how behavior varies across different populations. Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
+I am interested in questions pertaining to search and information frictions in development and environmental economics. I am also interested in online platforms as a context in which to study such frictions, as well as productivity in informal(-adjacent) labor markets. I approach these questions primarily via field experiments.
 
-My current thesis research is broadly on using whole genome data to study the evolutionary history of gray wolves. For this, I use various field-based, genomic, and computational methods as well as collaborate with a wide range of researchers to answer questions on gray wolves. With newly sequenced gray wolf genomes, we are investigating patterns of divergence, demographic history, and gene flow across wolf populations in Asia. 
+For my job market project, I study how do agents in developing markets facing information and search frictions make pricing and other strategic choices. Working closely with a leading listing platform for used vehicles in Pakistan, I investigate how a price information intervention could shift sellers' beliefs about market conditions and affect their choices. I also study if and how their choices generate spillovers to others, contributing to frictions that constrain them to begin with. For my projects on environmental topics, I use randomized controlled trials to study how individuals form beliefs about the accuracy and reliability of environmental information, such as air pollution forecasts in Lahore, Pakistan, and energy efficiency "audits" in Aguascalientes, Mexico. 
 
-- A strong component of this research is focused on **gray wolves in South Asia** and involves collaboration with various government organizations, universities, and NGOs in Pakistan and India.
+In my job-maket project and beyond, I work closely with leading online platforms and technology companies in emerging markets to address questions that both academically novel and business-relevant. If you are a company working on interesting problems in emerging economies, please feel free to reach out to [me](mailto:snnakamura@ucdavis.edu).
 
-<center>
-<img src="/img/wolfgenetics.png" length="400" width="400">
-<center>
-  
-<p style="text-align:left"> 
-  Originally from Illinois, I obtained my B.S. in Evolutionary Biology at the University of Wisconsin-Madison. After graduating, I worked various field positions in the Indian Himalaya, Australia, and New Zealand. In 2014, I became a <a href="https://us.fulbrightonline.org/">Fulbright</a> scholar affiliated with the <a href="http://www.wii.gov.in">Wildlife Institute of India</a> to studying Himalayan and Indian wolf behavior. 
-</p>
-
-<p> 
-  Before starting my Ph.D at University of California, Davis, I was a research technician with the Wyoming Cooperative Fish and Wildlife Research Unit and a Project Biologist for the <a href="https://www.woodriverwolfproject.org/">Wood River Wolf Project</a> based in Idaho. In my freetime, I enjoy spending time outdoors -- whether hiking, camping, or observing wildlife. 
-</p>
-
-
-
-<center>
- <img src="/img/Screen Shot 2019-04-20 at 5.39.38 PM.png">
-<center>
-  
-  
-
+Before starting my Ph.D at UC Davis, I was a research assistant at the [Marshall Institute](https://www.lse.ac.uk/marshall-institute) at the London School of Economics and Political Science, where I also completed my MSc in Economics. I obtained my bachelor's degree in Economics at Dartmouth College.
+![image](https://user-images.githubusercontent.com/50980549/156862569-c1c6ff5d-38d4-4e42-bff9-4bde26237c50.png)
