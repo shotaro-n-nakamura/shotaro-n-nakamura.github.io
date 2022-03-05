@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: Development, Environment, and Online Platforms
 bigimg:
-  - "/img/pakistan_cars.jpeg"
+  - "/img/pakistan_cars.jpeg": ""
 ---
 ## **Job Market Project：**
 ### Pricing, Advertising, and Spillovers under Information and Search Frictions: Experimental Evidence from an Online Platform in Pakistan
