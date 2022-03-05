@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About Me
 bigimg: 
 - "/img/lahore_self.jpeg" : "Lahore, Pakistan. 2018"
 ---
