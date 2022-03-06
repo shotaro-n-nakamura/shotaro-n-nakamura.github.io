@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Shotaro Nakamura
-subtitle: Ph.D Candidate in Economics, University of California, Davis
 bigimg:
   - "/img/lahore_skyline.jpeg" : "Lahore, Pakistan. 2019"
 
