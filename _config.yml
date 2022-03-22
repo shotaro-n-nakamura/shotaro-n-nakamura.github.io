@@ -85,7 +85,7 @@ url-pretty: "shotaro-n-nakamura.github.io"  # eg. "deanattali.com/beautiful-jeky
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-TE9R0TD0LB"
 
 # Google Tag Manager ID
 #gtm: ""
