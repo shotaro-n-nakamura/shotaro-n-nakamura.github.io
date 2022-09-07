@@ -5,7 +5,10 @@ subtitle: Development, Environment, and Online Platforms
 bigimg:
   - "/img/pakistan_cars.jpeg": ""
 ---
-## **Job Market Project：**
+## **Job Market Paper：**
+### COMING SOON!
+
+## **Working Papers：**
 ### Pricing, Advertising, and Spillovers under Information and Search Frictions: Experimental Evidence from an Online Platform in Pakistan
 
 (with [Ali Hasanain](https://old.lums.edu.pk/lums_employee/Syed-Ali-Hasanain) and [Adeel Tariq](https://lums.edu.pk/lums_employee/2045))
@@ -18,5 +21,3 @@ In developing markets facing information and search frictions, how do agents for
 ### Belief formation, signal quality, and information sources: Experimental evidence on air quality from Pakistan.
 (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home), [Sanval Nasim](https://snasim.github.io/), and [Arman Rezaee](https://armanrezaee.github.io/))
 
-### Energy efficiency audits for small and medium enterprises (SMEs) in Aguascalientes, Mexico
-(with [Hernan Bejarano](https://www.hernandbejarano.com/), [Pedro Hancevic](https://hancevic.weebly.com/), [Hector Nunez](https://www.cide.edu/economics-profesors/hector-m-nunez/), [David Rapson](http://rapson.ucdavis.edu/), and [Juan Rosellon](http://investigadores.cide.edu/Juan_Rosellon/index.htm))
