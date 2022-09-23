@@ -17,7 +17,7 @@ description: Shotaro Nakamura
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Research: "research"
   CV: "cv"
   日本語: "JPNIntro"
