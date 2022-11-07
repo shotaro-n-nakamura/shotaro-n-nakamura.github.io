@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Research
 bigimg:
   - "/img/lahore_skyline.jpeg" : "Lahore, Pakistan. 2019"
 
