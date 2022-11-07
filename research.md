@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 bigimg:
   - "/img/lahore_skyline.jpeg" : "Lahore, Pakistan. 2019"
 
