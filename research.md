@@ -1,9 +1,6 @@
 ---
 layout: page
-<!---title: Research
-subtitle: Development, Environment, and Online Platforms
-bigimg:
-  - "/img/pakistan_cars.jpeg": ""--->
+
 ---
 ## **Job Market Paper：**
 ### Distributional and Productivity Implications of Regulating Casual Labor: Evidence from Ridesharing in Indonesia
