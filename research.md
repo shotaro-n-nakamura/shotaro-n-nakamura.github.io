@@ -1,3 +1,9 @@
+---
+layout: page
+bigimg:
+  - "/img/lahore_skyline.jpeg" : "Lahore, Pakistan. 2019"
+
+---
 
 ## **Job Market Paper：**
 ### Distributional and Productivity Implications of Regulating Casual Labor: Evidence from Ridesharing in Indonesia
