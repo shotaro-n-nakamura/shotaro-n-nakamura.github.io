@@ -21,7 +21,7 @@ Regulations intended to improve workers' earnings, such as minimum wage, may hav
 
 (with [Ali Hasanain](https://old.lums.edu.pk/lums_employee/Syed-Ali-Hasanain) and [Adeel Tariq](https://lums.edu.pk/lums_employee/2045))
 
-  - [Long abstract](https://drive.google.com/file/d/1EhC_MHRS6QA5Ealofp9HqO24voDyXQSP/view?usp=sharing)
+  - [Early draft](https://drive.google.com/file/d/1EhC_MHRS6QA5Ealofp9HqO24voDyXQSP/view?usp=sharing)
   - [Slides](https://drive.google.com/file/d/1yr2riquEjHYTrkHKC3F7sLZqb7gz-vo3/view?usp=sharing)
   - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7537)
 
