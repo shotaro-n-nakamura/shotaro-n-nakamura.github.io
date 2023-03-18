@@ -33,3 +33,8 @@ In developing markets facing information and search frictions, how do agents for
 ### Belief formation, signal quality, and information sources: Experimental evidence on air quality from Pakistan.
 (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home), [Sanval Nasim](https://snasim.github.io/), and [Arman Rezaee](https://armanrezaee.github.io/))
 
+### Transaction costs in adapting to air pollution: Experimental evidence in California
+(with [Collin Weigel](http://www.collinweigel.com/))
+
+
+
