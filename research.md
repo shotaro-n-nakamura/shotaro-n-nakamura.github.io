@@ -29,9 +29,9 @@ Regulations intended to improve workers’ earnings, such as minimum wage, may h
 **Abstract:**
 In developing markets facing information and search frictions, how do agents form beliefs about market conditions and make pricing and other strategic choices? And how do their choices generate spillovers to others, contributing to frictions that con- strain them? We conduct a randomized control trial on a major online listing platform for used vehicles in Pakistan, with limited publicly available price information. In col- laboration with PakWheels.com, we randomly provide estimates of transaction prices privately to sellers who create new posts and capture their direct and spillover effects at the vehicle-model level. The information intervention brings sellers’ listing prices closer to our price estimates for treatment and spillover sellers but increases transac- tion probability only for the spillover group. The findings point to two mechanisms: 1) effects of price information are mediated by advertising tools that could counter- vail effects of list-pricing choices, and 2) spillovers could propagate direct effects of information intervention via adjustments by competing sellers.
 
-## **Other Funded Projects：**
+## **Work in Progress：**
 ### Belief formation, signal quality, and information sources: Experimental evidence on air quality from Pakistan.
-(with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home), [Sanval Nasim](https://snasim.github.io/), and [Arman Rezaee](https://armanrezaee.github.io/))
+(with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home), Isra Imtiaz, [Sanval Nasim](https://snasim.github.io/), and [Arman Rezaee](https://armanrezaee.github.io/))
 
 ### Transaction costs in adapting to air pollution: Experimental evidence from California
 (with [Collin Weigel](http://www.collinweigel.com/))
