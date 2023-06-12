@@ -22,7 +22,6 @@ Regulations intended to improve workers’ earnings, such as minimum wage, may h
 
 (with [Ali Hasanain](https://old.lums.edu.pk/lums_employee/Syed-Ali-Hasanain) and [Adeel Tariq](https://lums.edu.pk/lums_employee/2045))
 
-  - [Early draft](https://drive.google.com/file/d/1EhC_MHRS6QA5Ealofp9HqO24voDyXQSP/view?usp=sharing)
   - [Slides](https://drive.google.com/file/d/1yr2riquEjHYTrkHKC3F7sLZqb7gz-vo3/view?usp=sharing)
   - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7537)
 
@@ -32,6 +31,8 @@ In developing markets facing information and search frictions, how do agents for
 ## **Work in Progress：**
 ### Belief formation, signal quality, and information sources: Experimental evidence on air quality from Pakistan.
 (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home), Isra Imtiaz, [Sanval Nasim](https://snasim.github.io/), and [Arman Rezaee](https://armanrezaee.github.io/))
+
+  - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11489)
 
 ### Transaction costs in adapting to air pollution: Experimental evidence from California
 (with [Collin Weigel](http://www.collinweigel.com/))
