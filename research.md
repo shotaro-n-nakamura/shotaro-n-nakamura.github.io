@@ -9,9 +9,7 @@ bigimg:
 ## **Working Papers：**
 
 ### Distributional and Productivity Implications of Regulating Casual Labor: Evidence from Ridesharing in Indonesia
-
-(with [Rizki Siregar](https://rizkisiregar.org/))
-
+  - with [Rizki Siregar](https://rizkisiregar.org/)
   - [Link to the paper](https://drive.google.com/file/d/1zLNvgRw-OHUMBG8MdBTP_wW4EzMohn_i/view?usp=sharing)
   - [World Bank's Development Impact Blog](https://blogs.worldbank.org/impactevaluations/what-happens-when-we-directly-regulate-informal-labor-developing-economies-guest?cid=SHR_BlogSiteShare_EN_EXT)
 
@@ -20,8 +18,7 @@ Regulations intended to improve workers’ earnings, such as minimum wage, may h
 
 ### Pricing, Advertising, and Spillovers under Information and Search Frictions: Experimental Evidence from an Online Platform in Pakistan
 
-(with [Ali Hasanain](https://old.lums.edu.pk/lums_employee/Syed-Ali-Hasanain) and [Adeel Tariq](https://lums.edu.pk/lums_employee/2045))
-
+  - with [Ali Hasanain](https://old.lums.edu.pk/lums_employee/Syed-Ali-Hasanain) and [Adeel Tariq](https://lums.edu.pk/lums_employee/2045)
   - Draft available upon request
   - [Slides](https://drive.google.com/file/d/1yr2riquEjHYTrkHKC3F7sLZqb7gz-vo3/view?usp=sharing)
   - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7537)
@@ -31,12 +28,11 @@ Information and search frictions generate distortions and market failures throug
 
 ## **Work in Progress：**
 ### Belief formation, signal quality, and information sources: Experimental evidence on air quality from Pakistan.
-(with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home), Isra Imtiaz, [Sanval Nasim](https://snasim.github.io/), and [Arman Rezaee](https://armanrezaee.github.io/))
-
+  - with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home), Isra Imtiaz, [Sanval Nasim](https://snasim.github.io/), and [Arman Rezaee](https://armanrezaee.github.io/)
   - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11489)
 
 ### Transaction costs in adapting to air pollution: Experimental evidence from California
-(with [Collin Weigel](http://www.collinweigel.com/))
+  - with [Collin Weigel](http://www.collinweigel.com/)
 
 
 
