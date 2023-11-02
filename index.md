@@ -13,4 +13,4 @@ My research, focused on developing economies, addresses the roles of online plat
 <center>
 
 
-**Disclaimer**: Any opinions and conclusions expressed on this website or my research papers are those of the authors and do not necessarily represent the views of the Federal Trade Commission or its Commissioners.
+Disclaimer: Any opinions and conclusions expressed on this website or my research papers are those of the authors and do not necessarily represent the views of the Federal Trade Commission or its Commissioners.
