@@ -1,8 +1,5 @@
 ---
 layout: page
-smallimg:
-  - "/img/lahore_skyline.jpeg" : "Lahore, Pakistan. 2019"
-
 ---
 
 ## **Working Papers：**
