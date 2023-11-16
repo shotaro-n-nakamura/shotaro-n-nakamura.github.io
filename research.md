@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Research
----
+bigimg:
+  - "/img/Jakarta.jpeg" : "Jakarta, Indonesia. 2023"
+------
 
 ## **Working Papers：**
 
