@@ -8,10 +8,8 @@ My name is Shotaro Nakamura, and I am an Economist at the Bureau of Economics, U
 
 My research, focused on developing economies, addresses the roles of online platforms and the gig economy, search and information, and environmental information. I have collaborated extensively with online platforms and environmental policy stakeholders in Pakistan and Indonesia to conduct field experiments and policy evaluations.
 
+Disclaimer: Any opinions and conclusions expressed on this website or my research papers are those of the authors and do not necessarily represent the views of the Federal Trade Commission or its Commissioners.
+
 <center>
 <img src="/img/shotaro-4a.jpg" width="300">
 <center>
-
-<left>
-Disclaimer: Any opinions and conclusions expressed on this website or my research papers are those of the authors and do not necessarily represent the views of the Federal Trade Commission or its Commissioners.
-<left>
