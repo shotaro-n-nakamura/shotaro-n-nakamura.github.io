@@ -1,8 +1,9 @@
 ---
 layout: page
 bigimg:
-  - "/img/jakarta.jpg" : "Jakarta, Indonesia. 2023"
-------
+  - "/img/lahore_skyline.jpeg" : "Lahore, Pakistan. 2019"
+
+---
 
 ## **Working Papers：**
 
