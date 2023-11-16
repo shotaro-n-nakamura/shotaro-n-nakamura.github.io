@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/jakarta.jpg" : "Lahore, Pakistan. 2019"
+  - "/img/jakarta.jpg" : "Jakarta, Indonesia. 2023"
 
 ---
 
