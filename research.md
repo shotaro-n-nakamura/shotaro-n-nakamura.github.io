@@ -1,9 +1,6 @@
 ---
 layout: page
 title: ""
-bigimg:
-  - "/img/jakarta.jpg" : "Jakarta, Indonesia. 2023"
-
 ---
 
 ### **Working Papers：**
