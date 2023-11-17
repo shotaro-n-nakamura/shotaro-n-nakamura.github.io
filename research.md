@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 
 bigimg:
   - "/img/jakarta.jpg" : "Jakarta, Indonesia. 2023"
 
