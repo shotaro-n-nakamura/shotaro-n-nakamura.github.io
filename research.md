@@ -6,7 +6,7 @@ bigimg:
 
 ---
 
-## **Working Papers：**
+### **Working Papers：**
 
 ### Distributional and Productivity Implications of Regulating Casual Labor: Evidence from Ridesharing in Indonesia (with [Rizki Siregar](https://rizkisiregar.org/))
   - [Link to the paper](https://drive.google.com/file/d/1zLNvgRw-OHUMBG8MdBTP_wW4EzMohn_i/view?usp=sharing)
@@ -29,7 +29,7 @@ Information and search frictions generate distortions and market failures throug
 
 When governments in developing economies under-provide environmental information, consumers may demand private alternatives depending on their beliefs about the quality of information. We study how information sources shape demand for air quality information via a randomized controlled trial in which we provide day-ahead air pollution forecasts. We make salient one of the information sources: the government vs. a private citizens group. We find that our respondents in Lahore, Pakistan, have a high willingness to pay for the forecast service, yet there is no difference by the assigned source. However, respondents show a significantly higher revealed relative preference for the assigned source, as measured through a donation game. Respondents also believe the government's forecast error is 12 percent higher than the private alternative's. Our findings suggest that respondents have weak priors and malleable preferences for information sources yet expect lower service quality from the government. 
 
-## **Work in Progress：**
+### **Work in Progress：**
 
 ### Transaction costs in adapting to air pollution: Experimental evidence from California (with [Collin Weigel](http://www.collinweigel.com/))
 
