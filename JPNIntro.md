@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 中村昌太郎
-subtitle: カリフォルニア大学デイビス校経済学部博士課程
 bigimg:
   - "/img/arashiyama.jpeg" : "Kyoto, Japan, 2018"
 ---
