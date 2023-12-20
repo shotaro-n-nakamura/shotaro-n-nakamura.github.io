@@ -6,7 +6,7 @@ title: ""
 ### **Working Papers：**
 
 ### Distributional and Productivity Implications of Regulating Casual Labor: Evidence from Ridesharing in Indonesia (with [Rizki Siregar](https://rizkisiregar.org/))
-  - [Link to the paper](https://drive.google.com/file/d/1zLNvgRw-OHUMBG8MdBTP_wW4EzMohn_i/view?usp=sharing)
+  - [Link to the paper](https://shotaro-n-nakamura.github.io/img/Nakamura_JMP_Latest.pdf)
   - [World Bank's Development Impact Blog](https://blogs.worldbank.org/impactevaluations/what-happens-when-we-directly-regulate-informal-labor-developing-economies-guest?cid=SHR_BlogSiteShare_EN_EXT)
 
 **Abstract:**
