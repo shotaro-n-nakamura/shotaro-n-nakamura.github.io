@@ -5,4 +5,5 @@ bigimg:
 
 ---
 
-Here's a recent version of my CV:  [download the PDF here](/img/cv_shotaro_nakamura.pdf).
+My site has moved to [https://sites.google.com/view/shotaronakamura/](https://sites.google.com/view/shotaronakamura/).
+
